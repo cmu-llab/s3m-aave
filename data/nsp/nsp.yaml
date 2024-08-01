@@ -1,0 +1,5 @@
+# ensure apostrophes are not removed from start or end of words
+# e.g. 'em or nuttin'
+clitic_markers:
+dirty: false
+beam: 100
