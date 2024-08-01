@@ -1,0 +1,1199 @@
+
+
+
+                     SYSTEM SUMMARY PERCENTAGES by SPEAKER                      
+
+,----------------------------------------------------------------------------------------------------.
+|exp/asr_train_asr_wavlm_lm_raw_en_bpe5000/decode_asr_asr_model_valid.loss.ave/test/score_wer/hyp.trn|
+|----------------------------------------------------------------------------------------------------|
+|  SPKR               |  # Snt    # Wrd   |  Corr       Sub      Del       Ins       Err     S.Err   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag2_f_03   |     3       198   |  81.3      11.6      7.1       1.0      19.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag2_m_01   |     1        12   |  66.7      25.0      8.3       0.0      33.3     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_f_01   |     3       202   |  75.7      14.9      9.4       2.0      26.2     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_f_02   |     1       138   |  66.7      23.9      9.4       3.6      37.0     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_m_02   |     3       293   |  62.1      24.6     13.3       1.7      39.6     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag4_m_02   |     1        33   |  54.5      39.4      6.1       3.0      48.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_f_01   |     1        71   |  71.8      15.5     12.7       0.0      28.2     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_f_02   |     6       342   |  76.6      13.5      9.9       0.6      24.0     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_m_01   |     2       142   |  77.5      10.6     12.0       0.0      22.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag3_f_02   |     3       217   |  62.7      20.3     17.1       3.2      40.6     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag3_m_01   |     5       297   |  78.8      12.5      8.8       0.3      21.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_01   |     1        44   |  81.8      13.6      4.5       2.3      20.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_02   |     2        85   |  88.2       4.7      7.1       0.0      11.8     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_03   |     1        52   |  86.5       5.8      7.7       0.0      13.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_05   |     1        55   |  65.5      21.8     12.7       0.0      34.5     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_m_01   |     1        37   |  64.9      21.6     13.5       0.0      35.1     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_f_02   |     4       301   |  68.1      17.6     14.3       0.7      32.6     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_m_01   |     3       114   |  78.9      11.4      9.6       0.0      21.1     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_m_02   |     2        58   |  87.9       6.9      5.2       0.0      12.1     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_f_02   |     3       282   |  80.9      11.3      7.8       1.8      20.9     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_m_01   |     2       158   |  77.2      12.7     10.1       1.3      24.1     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_m_02   |     1        59   |  88.1       6.8      5.1       1.7      13.6     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag1_f_01   |    11       361   |  74.0      19.1      6.9       1.7      27.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag1_f_02   |     1        18   |  83.3      11.1      5.6       0.0      16.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag2_f_02   |     4        96   |  71.9      19.8      8.3       1.0      29.2     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag2_f_03   |     1        21   |  33.3      47.6     19.0       0.0      66.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_01   |     1        45   |  93.3       6.7      0.0       0.0       6.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_02   |     8       167   |  78.4      13.8      7.8       1.2      22.8      87.5   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_04   |     6        89   |  57.3      38.2      4.5      10.1      52.8     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_01   |    10       343   |  82.8      11.1      6.1       1.2      18.4     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_02   |     3        82   |  64.6      22.0     13.4       0.0      35.4     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_03   |     5       101   |  38.6      46.5     14.9       3.0      64.4     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_01   |     4       278   |  83.8       8.3      7.9       0.7      16.9     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_02   |     2       181   |  77.9      12.2      9.9       2.2      24.3     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_03   |     3        92   |  96.7       1.1      2.2       0.0       3.3      66.7   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_01   |     7       389   |  75.8      17.7      6.4       4.1      28.3     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_02   |     2       156   |  60.9      25.6     13.5       2.6      41.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_03   |     4       113   |  81.4      15.0      3.5       4.4      23.0     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_02   |     4       221   |  86.9       9.0      4.1       0.5      13.6     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_03   |     9       584   |  81.3      11.8      6.8       3.4      22.1     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_04   |     2       194   |  69.6      12.9     17.5       2.6      33.0     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag3_f_01   |     2       109   |  78.0      13.8      8.3       3.7      25.7     100.0   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag3_f_02   |    11       450   |  85.6       9.6      4.9       0.7      15.1     100.0   |
+|====================================================================================================|
+|  Sum/Avg            |   150      7280   |  76.2      15.0      8.8       1.7      25.6      98.7   |
+|====================================================================================================|
+|        Mean         |   3.5     169.3   |  74.4      16.7      8.9       1.5      27.2      98.9   |
+|        S.D.         |   2.8     131.3   |  12.9      10.3      4.2       1.9      13.6       5.4   |
+|       Median        |   3.0     138.0   |  77.5      13.6      8.3       1.0      24.1     100.0   |
+`----------------------------------------------------------------------------------------------------'
+
+
+
+                     SYSTEM SUMMARY PERCENTAGES by SPEAKER                      
+
+,----------------------------------------------------------------------------------------------------.
+|exp/asr_train_asr_wavlm_lm_raw_en_bpe5000/decode_asr_asr_model_valid.loss.ave/test/score_wer/hyp.trn|
+|----------------------------------------------------------------------------------------------------|
+|  SPKR               |  # Snt    # Wrd   |  Corr       Sub      Del       Ins       Err     S.Err   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag2_f_03   |     3       198   |   161        23       14         2        39         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag2_m_01   |     1        12   |     8         3        1         0         4         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_f_01   |     3       202   |   153        30       19         4        53         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_f_02   |     1       138   |    92        33       13         5        51         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag3_m_02   |     3       293   |   182        72       39         5       116         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se1_ag4_m_02   |     1        33   |    18        13        2         1        16         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_f_01   |     1        71   |    51        11        9         0        20         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_f_02   |     6       342   |   262        46       34         2        82         6   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag2_m_01   |     2       142   |   110        15       17         0        32         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag3_f_02   |     3       217   |   136        44       37         7        88         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag3_m_01   |     5       297   |   234        37       26         1        64         5   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_01   |     1        44   |    36         6        2         1         9         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_02   |     2        85   |    75         4        6         0        10         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_03   |     1        52   |    45         3        4         0         7         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_f_05   |     1        55   |    36        12        7         0        19         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se2_ag4_m_01   |     1        37   |    24         8        5         0        13         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_f_02   |     4       301   |   205        53       43         2        98         4   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_m_01   |     3       114   |    90        13       11         0        24         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag3_m_02   |     2        58   |    51         4        3         0         7         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_f_02   |     3       282   |   228        32       22         5        59         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_m_01   |     2       158   |   122        20       16         2        38         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  dcb_se3_ag4_m_02   |     1        59   |    52         4        3         1         8         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag1_f_01   |    11       361   |   267        69       25         6       100        11   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag1_f_02   |     1        18   |    15         2        1         0         3         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag2_f_02   |     4        96   |    69        19        8         1        28         4   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag2_f_03   |     1        21   |     7        10        4         0        14         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_01   |     1        45   |    42         3        0         0         3         1   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_02   |     8       167   |   131        23       13         2        38         7   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_f_04   |     6        89   |    51        34        4         9        47         6   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_01   |    10       343   |   284        38       21         4        63        10   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_02   |     3        82   |    53        18       11         0        29         3   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  prv_se0_ag3_m_03   |     5       101   |    39        47       15         3        65         5   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_01   |     4       278   |   233        23       22         2        47         4   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_02   |     2       181   |   141        22       18         4        44         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_f_03   |     3        92   |    89         1        2         0         3         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_01   |     7       389   |   295        69       25        16       110         7   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_02   |     2       156   |    95        40       21         4        65         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag1_m_03   |     4       113   |    92        17        4         5        26         4   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_02   |     4       221   |   192        20        9         1        30         4   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_03   |     9       584   |   475        69       40        20       129         9   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag2_f_04   |     2       194   |   135        25       34         5        64         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag3_f_01   |     2       109   |    85        15        9         4        28         2   |
+|---------------------+-------------------+----------------------------------------------------------|
+|  roc_se0_ag3_f_02   |    11       450   |   385        43       22         3        68        11   |
+|====================================================================================================|
+|  Sum                |   150      7280   |  5546      1093      641       127      1861       148   |
+|====================================================================================================|
+|        Mean         |   3.5     169.3   | 129.0      25.4     14.9       3.0      43.3       3.4   |
+|        S.D.         |   2.8     131.3   | 105.9      20.1     12.1       4.1      33.8       2.8   |
+|       Median        |   3.0     138.0   |  92.0      20.0     13.0       2.0      38.0       3.0   |
+`----------------------------------------------------------------------------------------------------'
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   exp/asr_train_asr_wavlm_lm_raw_en_bpe5000/decode_asr_asr_model_valid.loss.ave/test/score_wer/hyp.trn
+
+Speakers: 
+    0:  dcb_se1_ag2_f_03
+    1:  dcb_se1_ag2_m_01
+    2:  dcb_se1_ag3_f_01
+    3:  dcb_se1_ag3_f_02
+    4:  dcb_se1_ag3_m_02
+    5:  dcb_se1_ag4_m_02
+    6:  dcb_se2_ag2_f_01
+    7:  dcb_se2_ag2_f_02
+    8:  dcb_se2_ag2_m_01
+    9:  dcb_se2_ag3_f_02
+   10:  dcb_se2_ag3_m_01
+   11:  dcb_se2_ag4_f_01
+   12:  dcb_se2_ag4_f_02
+   13:  dcb_se2_ag4_f_03
+   14:  dcb_se2_ag4_f_05
+   15:  dcb_se2_ag4_m_01
+   16:  dcb_se3_ag3_f_02
+   17:  dcb_se3_ag3_m_01
+   18:  dcb_se3_ag3_m_02
+   19:  dcb_se3_ag4_f_02
+   20:  dcb_se3_ag4_m_01
+   21:  dcb_se3_ag4_m_02
+   22:  prv_se0_ag1_f_01
+   23:  prv_se0_ag1_f_02
+   24:  prv_se0_ag2_f_02
+   25:  prv_se0_ag2_f_03
+   26:  prv_se0_ag3_f_01
+   27:  prv_se0_ag3_f_02
+   28:  prv_se0_ag3_f_04
+   29:  prv_se0_ag3_m_01
+   30:  prv_se0_ag3_m_02
+   31:  prv_se0_ag3_m_03
+   32:  roc_se0_ag1_f_01
+   33:  roc_se0_ag1_f_02
+   34:  roc_se0_ag1_f_03
+   35:  roc_se0_ag1_m_01
+   36:  roc_se0_ag1_m_02
+   37:  roc_se0_ag1_m_03
+   38:  roc_se0_ag2_f_02
+   39:  roc_se0_ag2_f_03
+   40:  roc_se0_ag2_f_04
+   41:  roc_se0_ag3_f_01
+   42:  roc_se0_ag3_f_02
+
+Speaker sentences   0:  dcb_se1_ag2_f_03   #utts: 3
+id: (dcb_se1_ag2_f_03-dcb_se1_ag2_f_03_1_1344348_1351219)
+Scores: (#C #S #D #I) 21 3 0 0
+REF:  yes but i don't share i did share at the UM    torch club when THEY had the POETRY night here a few months ago 
+HYP:  yes but i don't share i did share at the AMONG torch club when I    had the PORTRY night here a few months ago 
+Eval:                                          S                     S            S                                  
+
+id: (dcb_se1_ag2_f_03-dcb_se1_ag2_f_03_1_2594369_2619310)
+Scores: (#C #S #D #I) 68 8 5 0
+REF:  i just WANT to experience living somewhere else and then it's so expensive to live here now you can't even live comfortably without really thinking about OKAY i got to pay all this money for rent got to pay all this money for food for this for METRO X      Y  AND   Z   so i do want to move CAUSE i didn't go away for school so i feel like i just KIND OF been stuck H EVEN THOUGH i have traveled 
+HYP:  i just ONE  to experience living somewhere else and then it's so expensive to live here now you can't even live comfortably without really thinking about AWAY i got to pay all this money for rent got to pay all this money for food for this for ***** METRIO EX WEY'S ZEE so i do want to move SAYS  i didn't go away for school so i feel like i just **** ** been stuck * **** HERE   i have traveled 
+Eval:        S                                                                                                                                                  S                                                                                         D     S      S  S     S                        S                                                       D    D             D D    S                      
+
+id: (dcb_se1_ag2_f_03-dcb_se1_ag2_f_03_1_3274626_3305744)
+Scores: (#C #S #D #I) 72 12 9 2
+REF:  but LIKE when we get off early of course i can go BUT FOR    the most part ALERO'S IS      like my FAVORITE  like hang out SPOT cause especially in the summer they have the outdoor part and then at night it doesn't ** IT'S not just like they have they turn half of it into like a little UM club or WHATEVER AT NIGHT TIME ON some saturdays and STUFF  so i LIKED IT   there but if i'm going to sit down AND eat somewhere i like **** BUSBOYS i ALSO like BEN'S next door 
+HYP:  but I    when we get off early of course i can go *** BEFORE the most part ******* ELERO'S like my FAVOURITE like hang out SPIT cause especially in the summer they have the outdoor part and then at night it doesn't IT IS   not just like they have they turn half of it into like a little EM club or ******** ** ***** **** ** some saturdays and DEATHS so i ***** LIKE there but if i'm going to sit down TO  eat somewhere i like BUST BOYS    i **** like BENS  next door 
+Eval:     S                                             D   S                    D       S               S                       S                                                                                           I  S                                                                    S          D        D  D     D    D                     S           D     S                                       S                        I    S         D         S               
+
+Speaker sentences   1:  dcb_se1_ag2_m_01   #utts: 1
+id: (dcb_se1_ag2_m_01-dcb_se1_ag2_m_01_1_51264_58418)
+Scores: (#C #S #D #I) 8 3 1 0
+REF:  FOR about six months like six MONTHS what FLAVOR  would you LIKE 
+HYP:  *** about six months like six MONDAY what FLAVOUR would you WANT 
+Eval: D                             S           S                 S    
+
+Speaker sentences   2:  dcb_se1_ag3_f_01   #utts: 3
+id: (dcb_se1_ag3_f_01-dcb_se1_ag3_f_01_1_333418_343444)
+Scores: (#C #S #D #I) 24 9 0 1
+REF:  OH WELL NOBODY knows i guess people got TIRED OF      SOLICITING help and you know some of the DYNAMICS CHANGED where neighbors just were getting older and didn't want to do it *** ANYMORE 
+HYP:  WE KNOW I      knows i guess people got TIED  SOLICIT IN         help and you know some of the DINAMIC  CHANGE  where neighbors just were getting older and didn't want to do it ANY MORE    
+Eval: S  S    S                               S     S       S                                        S        S                                                                        I   S       
+
+id: (dcb_se1_ag3_f_01-dcb_se1_ag3_f_01_1_682434_731413)
+Scores: (#C #S #D #I) 122 21 19 1
+REF:  that used to be what we used to call THE market we used to CAN go down there and it was different little E SH    stands inside of THERE we could shop for hair goods T   shirts YOU they had a place in THERE that had the best F CH STEAK AND     cheese i mean these are all the things that we saw you know we've seen change over the years the UM  corner store THAT SITS right there next to kipp used to be a people's drug store and if you go further up BENNING ROAD       on the left HAND SIDE     right there I THINK THAT'S BENNING ROAD AND H   that used to be the only black OWNED RECORD store on this side of town and it was called anne's RECORD SHOP   and then WHERE THE HAIR BRAIDING   place is NOW THAT  used to be a ******** CLEANERS and then THE twenty four HOUR STORE  used to be an actual seven eleven 
+HYP:  that used to be what we used to call A   market we used to *** go down there and it was different little * SHIRT stands inside of IT    we could shop for hair goods TEA shirts *** they had a place in IT    that had the best * ** ***** STAKING cheese i mean these are all the things that we saw you know we've seen change over the years the OWN corner store **** IT'S right there next to kipp used to be a people's drug store and if you go further up ******* BINNERROAD on the left **** HANDSIDE right there * ***** ****** DIDN'S  DRUD AT  AGE that used to be the only black ***** OWNG   store on this side of town and it was called anne's ****** RECTCH and then ***** *** **** WE'READING place is *** THERE used to be a DEALER'S DOUGH    and then A   twenty four **** HOUR'S used to be an actual seven eleven 
+Eval:                                      S                     D                                             D S                      S                                  S          D                       S                       D D  D     S                                                                                                        S                D    S                                                                                       D       S                      D    S                    D D     D      S       S    S   S                                  D     S                                                          D      S               D     D   D    S                   D   S                  I        S                 S               D    S                                        
+
+id: (dcb_se1_ag3_f_01-dcb_se1_ag3_f_01_1_94738_99958)
+Scores: (#C #S #D #I) 7 0 0 2
+REF:  ********* **** and high school i went to and 
+HYP:  HETHERAHA THIS and high school i went to and 
+Eval: I         I                                  
+
+Speaker sentences   3:  dcb_se1_ag3_f_02   #utts: 1
+id: (dcb_se1_ag3_f_02-dcb_se1_ag3_f_02_2_541814_589575)
+Scores: (#C #S #D #I) 92 33 13 5
+REF:  yes but all us work i have a UH friend she's a police officer that's my best friend we went to HAIR school TOGETHER W      BASICALLY we did everything ** ****** TOGETHER UNTIL she went into the police force UM back in high school i still TALK   to UM   some of my friends from the BASKETBALL team UH   UH  ME  AND her close but UH WE    have OUR FAMILIES she live out CLINTON  so we see each other *** when we go to CHURCH SOMETIMES and WE TALK ON THE PHONE  but when we get ** *** TOGETHER IT'S always the same SO   we know that YOU KNOW we are true friends CAUSE IT    ALWAY THE    S  always the same when we see each other but ALL IN ALL    I    stays IN THE house TRYING TO get them book works done THAT'S it 
+HYP:  yes but all us work i have a ** friend she's a police officer that's my best friend we went to HISS school TO       GATHER BASELY    we did everything TO GATHER AND      TOO   she went into the police force AH back in high school i still TALKED to AH'M some of my friends from the BASSBOIL   team TING BUT ALL IN  her close but ON WE'LL have *** ALLEE    she live out CLENNTON so we see each other AND when we go to ****** DER       and ** **** ** *** WE'TIN but when we get TO THE GAV'D    IS   always the same WHEN we know that *** **** we are true friends ***** SINCE IT'S  ALWAYS IS always the same when we see each other but *** ** O'NINO I'LL stays ON HIS house THEN   WE get them book works done ****** it 
+Eval:                              D                                                                 S           S        S      S                           I  I      S        S                                    S                              S         S                                S               S    S   S   S                 S  S          D   S                     S                             I                 D      S             D  D    D  D   S                      I  I   S        S                    S                 D   D                        D     S     S     S      S                                             D   D  S      S          S  S         S      S                           D         
+
+Speaker sentences   4:  dcb_se1_ag3_m_02   #utts: 3
+id: (dcb_se1_ag3_m_02-dcb_se1_ag3_m_02_1_1458301_1496422)
+Scores: (#C #S #D #I) 62 26 18 1
+REF:  YEAH EACH  each BAND has THEIR significant style i mean but they're all PLAYED  on the same instrument of course every band's GOING TO   have a different style like chuck BROWN'D be like more slow pace OR you know YOU HAD  more slow pace for the older crowd CAUSE   they WASN'T  with all that but YOU KNOW   JUNK   back AND NORTHEAST GROOVERS you know THEY COULD  go SLOW or THEY'LL go FAST for *** A   couple dances OR SOMETHING LIKE THAT FOR BACK IN     THE day but I'LL tell you one thing we don't PERCOLATE THAT'S     what we won't DO DOWN IN D C WE DON'T PERCOLATE 
+HYP:  **** THERE each BIRD has THE   significant style i mean but they're all PLAYING on the same instrument of course every band's ***** ONLY have a different style like chuck BRANNY  be like more slow pace OH you know *** YE'D more slow pace for the older crowd BECAUSE they WEREN'T with all that but *** YOU'LL JUMPED back IN  NORTHE'S  GROOR'SS you know **** THEY'D go FAST or THEY'D  go FASE for THE OLD couple dances ** ********* **** **** *** **** O'NINN A   day but I    tell you one thing we don't ********* PURGULATES what we won't ** **** ** * * ** PUN'T PURULATE  
+Eval: D    S          S        S                                              S                                                     D     S                                      S                              S           D   S                                       S            S                         D   S      S           S   S         S                 D    S         S       S          S        I   S                 D  D         D    D    D   D    S      S           S                                D         S                        D  D    D  D D D  S     S         
+
+id: (dcb_se1_ag3_m_02-dcb_se1_ag3_m_02_1_1563477_1588686)
+Scores: (#C #S #D #I) 27 21 6 1
+REF:  YEAH IT WAS  more like a SACRIFICIAL type thing they WASN'T  really ***** radio oriented radio stations weren't playing GO  GO like that IT was one band THAT got on THOUGH WHO WAS IT  UH  E   U   who was that BAND E  U  and THAT was AIGHT used to CRANK TOO THOUGH  REMEMBER WORKING THE    
+HYP:  OH   NO IT'S more like a SACCAFICIAL type thing they WEREN'T really READY radio oriented radio stations weren't playing GOG A  like that HE was one band A    got on ****** *** *** THE OSI D'Y EUN who was that **** BY EH and I    was I     used to ***** *** CRAINNK THROUGH  DO      NOMBLE 
+Eval: S    S  S                S                           S              I                                                   S   S            S               S           D      D   D   S   S   S   S                D    S  S      S        S             D     D   S       S        S       S      
+
+id: (dcb_se1_ag3_m_02-dcb_se1_ag3_m_02_1_683270_732731)
+Scores: (#C #S #D #I) 93 25 15 3
+REF:  LIKE AS    as far as you know letting the government just do anything that they want to do basically **** cause ****** NOBODY'S really there to fight FOR US   or you know actually see what really goes DOWN  behind CLOSED DOORS I    MEAN YEAH WE   have people on TELEVISION telling us one thing but they could just be being a puppet for the next man but we really WOULDN'T know until WE    able to fight for the CAUSE and get WHAT  we want right INF IN in front of US SO it'll be shown *** instead of going off WHAT  everybody else is saying AND it's going THE OTHER WAY but the whole plan was TO GO THE   OTHER way THE WHOLE TIME BUT YOU'LL  never be able to KNOW THAT UNTIL you open YOUR EYES 
+HYP:  I    GUESS as far as you know letting the government just do anything that they want to do basically THEN cause NOBODY IS       really there to fight *** FORS or you know actually see what really goes KNOWN behind ****** CLOSE DOOR AN'T YET  WE'D have people on ********** telling us one thing but they could just be being a puppet for the next man but we really GOIN'T   know until WE'LL able to fight for the HOUSE and get WHERE we want right *** ** in front of ** ** it'll be shown AND instead of going off WHERE everybody else is saying *** it's going *** ALL   DAY but the whole plan was ** ** GOING ALL   way *** ***** **** TO  HOLD'LL never be able to DO   AND  SEE   you open **** DAY  
+Eval: S    S                                                                                               I          I      S                              D   S                                              S            D      S     S    S    S    S                   D                                                                                                    S                   S                           S             S                   D   D              D  D                 I                        S                              D              D   S     S                          D  D  S     S         D   D     D    S   S                        S    S    S              D    S    
+
+Speaker sentences   5:  dcb_se1_ag4_m_02   #utts: 1
+id: (dcb_se1_ag4_m_02-dcb_se1_ag4_m_02_1_1546069_1555346)
+Scores: (#C #S #D #I) 18 13 2 1
+REF:  IN    UH  second GRADE TEACHER   gave me NICKNAME snake CAUSE WELL SHE said i was SNEAKY   you know i'd BE SITTING in one place and she ****** TURN AROUND i'm SITTING some place ELSE 
+HYP:  WHILE THE second ***** GRADEEDER gave me NIGNAME  snake ***** GOES HE  said i was SNEAKING you know i'd ME SIT     in one place and she TURNED A    MAN    i'm SITIN   some place UP   
+Eval: S     S          D     S                 S              D     S    S              S                     S  S                            I      S    S          S                  S    
+
+Speaker sentences   6:  dcb_se2_ag2_f_01   #utts: 1
+id: (dcb_se2_ag2_f_01-dcb_se2_ag2_f_01_1_2793680_2811400)
+Scores: (#C #S #D #I) 51 11 9 0
+REF:  SOUTH kind OF sort of so i'm the link SO WELL I'M  not i'm not the link AND i wasn't the LINK i'm THE one that PULL   everybody together so to speak so IT was me AND my best FRIEND  we've known EACH OTHER SINCE SEVENTH GRADE and then it's not funny but i was TOWARDS my ninth GRADE YEAR i became a part of a group called keep it tight 
+HYP:  ***** kind ** sort of so i'm the link ** **** SO'M not i'm not the link *** i wasn't the LICK i'm DE  one that PULLED everybody together so to speak so ** was me *** my best FRIENDS we've known **** IT    TO    SEVEN   GREAT and then it's not funny but i was TOWARD  my ninth ***** GREE i became a part of a group called keep it tight 
+Eval: D          D                          D  D    S                         D                S        S            S                                        D         D           S                   D    S     S     S       S                                       S                D     S                                                    
+
+Speaker sentences   7:  dcb_se2_ag2_f_02   #utts: 6
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_176993_184247)
+Scores: (#C #S #D #I) 19 2 3 0
+REF:  OKAY UM   so we lived with my grandmother THE majority of the time while we lived in D C      and i can't remember the 
+HYP:  **** ONLY so we lived with my grandmother *** majority of the time while we lived in * DEASEY and i can't remember the 
+Eval: D    S                                    D                                          D S                               
+
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_1926109_1933405)
+Scores: (#C #S #D #I) 24 1 2 1
+REF:  UM and i remember and i ASKED CAUSE    was three when she passed and he still remembers that that's how he learned how to count *** steps so 
+HYP:  ** and i remember and i ***** ACTUALLY was three when she passed and he still remembers that that's how he learned how to count THE steps so 
+Eval: D                       D     S                                                                                                 I            
+
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_3279089_3285518)
+Scores: (#C #S #D #I) 16 1 5 0
+REF:  MM HM and I I i honestly AND IT'S i have these conversations with him when he's vulnerable to have those conversations 
+HYP:  ** ** and * * i honestly *** YES  i have these conversations with him when he's vulnerable to have those conversations 
+Eval: D  D      D D            D   S                                                                                         
+
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_3603855_3628279)
+Scores: (#C #S #D #I) 64 15 10 0
+REF:  UM and it's A V  variety and they're AREAYS always speaking the truth IN  this new GO GO   where they're just taking other songs and turning into GO GO MUSIC  IT'S  LIKE NO   it's speaking the truth i love chuck brown UM and it's I i remember UM and that's why I CAN'T i CAN'T  complain at you know what environment i was exposed to CAUSE as I'M    older i'm remembering the late nights AND that's why my DAD'S dancing LIKE that's WHAT we used to do all night 
+HYP:  AM and it's * OF variety and they're ****** always speaking the truth AND this new ** GOGO where they're just taking other songs and turning into ** ** GOGALE MUSES LEAN KNOW it's speaking the truth i love chuck brown OH and it's * i remember I  and that's why * ***** i CAN''T complain at you know what environment i was exposed to GOOD  as I'MNCH older i'm remembering the late nights *** that's why my DAD   dancing **** that's WHO  we used to do all night 
+Eval: S           D S                      D                                S            D  S                                                           D  D  S      S     S    S                                               S           D            S                 D D       S                                                             S        S                                            D                 S             D           S                            
+
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_3630624_3662849)
+Scores: (#C #S #D #I) 85 22 12 0
+REF:  PUT me on his TOES  like his feet and we would dance all night literally and with my UNCLES  as well THAT'S that's honestly what we did and it's i love music UM  music speaks to the soul like i love the older music like you will L catch me listening to all the old school like i love MARVIN GAYE       UM  was actually COMPLAINING the other night CAUSE i'm listening to MARVIN GAYE       and i'm LIKE this is our music HONESTLY and I WAS telling HER that they should HAVE SIGNED me up for JAZZ like i LOVED JAZZ i LOVED BYUE BLUES like i LOVE  all types of music BUT YEAH I THINK C     C B      probably 
+HYP:  TE  me on his TOESS like his feet and we would dance all night literally and with my UNCLE'S as well ****** that's honestly what we did and it's i love music I'M music speaks to the soul like i love the older music like you will * catch me listening to all the old school like i love ****** MARVINGGAY I'M was actually YOU'M       the other night AS    i'm listening to ****** MARVINGGAY and i'm **** this is our music ******** and * I'M telling IT  that they should AS   SOUND  me up for JAS  like i LOVE  GESS i ***** LOVE BEAUS like i LOVEE all types of music *** **** * ***** YOU'M S CEEBEE probably 
+Eval: S             S                                                                      S               D                                                        S                                                                      D                                                      D      S          S                S                           S                      D      S                  D                      D            D S           S                    S    S                S           S     S      D     S    S            S                        D   D    D D     S     S S               
+
+id: (dcb_se2_ag2_f_02-dcb_se2_ag2_f_02_1_729651_746981)
+Scores: (#C #S #D #I) 54 5 2 1
+REF:  caroline county virginia that's down by KING'S DOMINION so when i was still up here i went through that program UM all three years and basically i'm like OKAY YEAH i DEFINITELY still want to be a lawyer so when i was at high school i went to another law program for * UH i want to say two weeks in louisiana 
+HYP:  caroline county virginia that's down by KINGS  MEN      so when i was still up here i went through that program ** all three years and basically i'm like **** YE   i DEFTLY     still want to be a lawyer so when i was at high school i went to another law program for A UP i want to say two weeks in louisiana 
+Eval:                                         S      S                                                                D                                         D    S      S                                                                                                   I S                                       
+
+Speaker sentences   8:  dcb_se2_ag2_m_01   #utts: 2
+id: (dcb_se2_ag2_m_01-dcb_se2_ag2_m_01_1_1216849_1241870)
+Scores: (#C #S #D #I) 63 14 5 0
+REF:  when i was I WOULD SAY WHEN  i was nineteen years old that's my first INTERACTION WITH white people and my first initial reaction was white people really act how they act on T V    like i thought that was crazy CAUSE they really talk like that I I   never experienced that before so it was A       it was NOT     NOT       NECESSARILY CULTURE shock but it was just like WOW   this is crazy CAUSE   i've been AROUND black people my whole life 
+HYP:  when i was * ***** *** SEVEN i was nineteen years old that's my first INACTION    WERE white people and my first initial reaction was white people really act how they act on * TEVY like i thought that was crazy COULD they really talk like that * I'D never experienced that before so it was NEITHER it was NOTHING NECESSARY CALLS       A       shock but it was just like WHILE this is crazy BECAUSE i've been ON     black people my whole life 
+Eval:            D D     D   S                                              S           S                                                                                           D S                                  S                                D S                                           S              S       S         S           S                                  S                   S                 S                                 
+
+id: (dcb_se2_ag2_m_01-dcb_se2_ag2_m_01_1_2643045_2659720)
+Scores: (#C #S #D #I) 47 1 12 0
+REF:  that's a story within itself I have TWO two little girls by two different UH mothers so THAT THAT that set me back a little bit FROM from going back to school because I i was i was ready TO go back to school but had THEM babies and THAT that took MY MY M my money went to that 
+HYP:  that's a story within itself * have *** two little girls by two different ** mothers so **** **** that set me back a little bit **** from going back to school because * i was i was ready ** go back to school but had NO   babies and **** that took ** ** * my money went to that 
+Eval:                              D      D                                     D             D    D                                  D                                      D                   D                            S               D              D  D  D                       
+
+Speaker sentences   9:  dcb_se2_ag3_f_02   #utts: 3
+id: (dcb_se2_ag3_f_02-dcb_se2_ag3_f_02_1_2183557_2191315)
+Scores: (#C #S #D #I) 18 4 1 1
+REF:  ****** what WHAT more do you need they're THEY'RE literally building buildings on top of OVERPASSES in D C      to get people in here 
+HYP:  WHAT'S what ONE  more do you need they're THERE   literally building buildings on top of OVERPASES  in * DEASEY to get people in here 
+Eval: I           S                             S                                              S             D S                            
+
+id: (dcb_se2_ag3_f_02-dcb_se2_ag3_f_02_1_2200823_2206816)
+Scores: (#C #S #D #I) 15 6 5 1
+REF:  to the point where **** THEY'RE building buildings on top OF   something IT J IT   it shouldn't even why ARE YOU BUILDING A       building ON AN overpass 
+HYP:  to the point where THEY ARE     building buildings on top WITH something ** * THAT it shouldn't even why *** *** YOU'RE   BUILDER building ** OR overpass 
+Eval:                    I    S                                 S              D  D S                          D   D   S        S                D  S           
+
+id: (dcb_se2_ag3_f_02-dcb_se2_ag3_f_02_1_3026179_3071055)
+Scores: (#C #S #D #I) 103 34 31 5
+REF:  I KNOW IT WAS     TOTALLY different UM it was a friday night i had got published in CAPITOL romance that day UM one of my S     PHOTOSHOOTS got published i SAID you know what screw it i'm going out ** TONIGHT i'm going TO hit U   street went out looked for parking for forty five GOD darn minutes * couldn't find NOT S    stitch OF  parking near U    street SO i drove all THE way down to CONSTITUTION AVE       I     SAID IMA go over HERE BY THE   GOVERNMENT BUILDINGS where i know my CAR'S NOT GOING TO GET BROKEN INTO and i'm still in the city and I  parked MY  car and i called a LYFT FROM  there *** the difference IS if I WOULD HAVE went all THE way home to TEMPLE  HILLS and * called a LYFT  and PARKED MY car AT  my house that LYFT would have been like twenty dollars *** i called a LYFT  from CONSTITUTION AVENUE TO U STREET IT WAS FOUR DOLLARS AND sixty seven cents 
+HYP:  * **** NO THERE'S SOLELY  different AM it was a friday night i had got published in CAPITAL romance that day AM one of my PHOTO SHOOTS      got published i SAY  you know what screw it i'm going out TO NIGHT   i'm going ** hit YOU street went out looked for parking for forty five GOT darn minutes I couldn't find *** THAT stitch AND parking near YORK street ** i drove all *** way down to ************ CHRISTIAN AIEVE AND  I'M go over **** ** THERE IT'M       GOIN'S    where i know my ***** *** ***** ** *** ****** CAR  and i'm still in the city and I' parked OUR car and i called a **** LIFFF there YOU the difference ** if * ***** I'LL went all *** way home to SEVERAL YEARS and I called a LIFFF and ****** I  car AND my house that LIF  would have been like twenty dollars AND i called a LIFFF from ************ ****** ** * ****** ** *** **** ******* *** sixty seven cents 
+Eval: D D    S  S       S                 S                                               S                        S            S     S                           S                                         I  S                 D      S                                                     S                I               D   S           S                S           D              D               D            S         S     S    S           D    D  S     S          S                         D     D   D     D  D   D      S                                  S         S                      D    S           I                  D     D D     S             D               S       S         I          S         D      S      S                 S                                        I              S          D            D      D  D D      D  D   D    D       D                     
+
+Speaker sentences  10:  dcb_se2_ag3_m_01   #utts: 5
+id: (dcb_se2_ag3_m_01-dcb_se2_ag3_m_01_1_1145256_1166149)
+Scores: (#C #S #D #I) 51 8 4 1
+REF:  to lead to speak ET cetera to do these things that i try to help give KIDS now that i love you know doing so much with 'EM  now UM and then because OF the art experience there i was ready to go to GR     UH  interview for **** high school got into the both the THEATER and the T V     production APART DEPARTMENTS 
+HYP:  to lead to speak ** cetera to do these things that i try to help give GIS  now that i love you know doing so much with THEM now AH and then because ** the art experience there i was ready to go to REGRET OUR interview for SOME high school got into the both the THEATRE and the * TEBEE production ***** APARTMENTS  
+Eval:                  D                                                    S                                                S        S                   D                                                S      S                 I                                      S               D S                D     S           
+
+id: (dcb_se2_ag3_m_01-dcb_se2_ag3_m_01_1_1403432_1432834)
+Scores: (#C #S #D #I) 85 16 13 0
+REF:  and she took a picture that she still had it and posted it on FACEBOOK and SHE'S like i still have this remember YOU know WHEN WE when you did these that you know that M made a difference BLAH BLAH BLAH BLAH  BLAH   so i think it was around that time I WAS really grappling with YEAH art thing is cool but that's not what i want to do i want to help people UM  and that's you know that's kind OF WHERE  my head was even when I GRADUATED AND   I  THINK CAUSE i GRAPPLED with THAT SO MUCH I DIDN'T know what i wanted to do was when i got to 
+HYP:  and she took a picture that she still had it and posted it on FACEBOLK and S     like i still have this remember *** know **** ** when you did these that you know that * made a difference **** **** **** BIBBE BARBAI so i think it was around that time * I'S really grappling with YEAR art thing is cool but that's not what i want to do i want to help people I'M and that's you know that's kind O  WE'DIN my head was even when * I'D       THINK IT WAS   WHEN  i GARPPLED with **** ** **** * THAT'T know what i wanted to do was when i got to 
+Eval:                                                               S            S                                     D        D    D                                        D                   D    D    D    S     S                                         D S                         S                                                                             S                                   S  S                            D S         S     S  S     S       S             D    D  D    D S                                                 
+
+id: (dcb_se2_ag3_m_01-dcb_se2_ag3_m_01_1_3230540_3246025)
+Scores: (#C #S #D #I) 29 3 4 0
+REF:  IT UM   one of THE things that I i recognized was UH an increase in their pride and their participation in the club UM and it T it took me until now to really see that 
+HYP:  ** ITEM one of *** things that * i recognized was AH an increase in their pride and their participation in the club AH and it * it took me until now to really see that 
+Eval: D  S           D               D                  S                                                                 S         D                                         
+
+id: (dcb_se2_ag3_m_01-dcb_se2_ag3_m_01_1_4416802_4423275)
+Scores: (#C #S #D #I) 9 1 0 0
+REF:  UM moments that made you laugh like that gut wrenching 
+HYP:  AH moments that made you laugh like that gut wrenching 
+Eval: S                                                      
+
+id: (dcb_se2_ag3_m_01-dcb_se2_ag3_m_01_1_4702217_4724189)
+Scores: (#C #S #D #I) 60 9 5 0
+REF:  WHAT'S wrong and it's like N she can say two words and the flood gates IS like oh MY GOD  you know and so she passed that I THINK along to me and when these young people come in and like you said you see it it's in your eyes it's in your body language IT'S IN    how you SET down in the chair AS OPPOSED TO    how you SET in the chair yesterday 
+HYP:  WHO'S  wrong and it's like * she can say two words and the flood gates OF like oh ** DEAR you know and so she passed that A THING along to me and when these young people come in and like you said you see it it's in your eyes it's in your body language **** ISN'T how you SAT down in the chair ** ******* YES'T how you SAT in the chair yesterday 
+Eval: S                          D                                           S          D  S                                    S S                                                                                                                               D    S             S                     D  D       S             S                          
+
+Speaker sentences  11:  dcb_se2_ag4_f_01   #utts: 1
+id: (dcb_se2_ag4_f_01-dcb_se2_ag4_f_01_1_3578924_3594150)
+Scores: (#C #S #D #I) 36 6 2 1
+REF:  one time I R    i learned a lot becoming a tourist one time and it wasn't until i W got married again we took the **** BUS TOUR BUS  and i learned about the ARCHIATECT i learned to appreciate the ARCHIATECT more in d c 
+HYP:  one time * I'VE i learned a lot becoming a tourist one time and it wasn't until i * got married again we took the BUSS TO  OR   BUSS and i learned about the ARCHITEC   i learned to appreciate the ARCHITEC   more in d c 
+Eval:          D S                                                                      D                               I    S   S    S                            S                                      S                      
+
+Speaker sentences  12:  dcb_se2_ag4_f_02   #utts: 2
+id: (dcb_se2_ag4_f_02-dcb_se2_ag4_f_02_1_2043679_2058057)
+Scores: (#C #S #D #I) 35 4 5 0
+REF:  UM   i can remember UH cause my father's V HAS A hot head hot temper very father's a very mean man UM but there WAS  certain things that would happen that he would BE totally be calm my mother was good at WRECKING cars 
+HYP:  ONLY i can remember OH cause my father's * *** * hot head hot temper very father's a very mean man ** but there WERE certain things that would happen that he would ** totally be calm my mother was good at RECKON   cars 
+Eval: S                   S                    D D   D                                                   D            S                                                   D                                        S             
+
+id: (dcb_se2_ag4_f_02-dcb_se2_ag4_f_02_1_678229_691711)
+Scores: (#C #S #D #I) 40 0 1 0
+REF:  grow older we get darker so i was extremely light when i was a child and very skinny and UM so i was like an outcast because i was made fun of because i was the white girl at the school 
+HYP:  grow older we get darker so i was extremely light when i was a child and very skinny and ** so i was like an outcast because i was made fun of because i was the white girl at the school 
+Eval:                                                                                          D                                                                                                
+
+Speaker sentences  13:  dcb_se2_ag4_f_03   #utts: 1
+id: (dcb_se2_ag4_f_03-dcb_se2_ag4_f_03_1_547321_561317)
+Scores: (#C #S #D #I) 45 3 4 0
+REF:  and going I MEAN  he could PRE    oh he could just like fire and just work everybody up you know he was just that kind of PEO    i can see that I C i don't remember exactly what it was he talked about but i remember i can see him in THE 
+HYP:  and going * AGAIN he could PREACH oh he could just like fire and just work everybody up you know he was just that kind of PREACH i can see that * * i don't remember exactly what it was he talked about but i remember i can see him in *** 
+Eval:           D S              S                                                                                              S                     D D                                                                                      D   
+
+Speaker sentences  14:  dcb_se2_ag4_f_05   #utts: 1
+id: (dcb_se2_ag4_f_05-dcb_se2_ag4_f_05_1_1003212_1026158)
+Scores: (#C #S #D #I) 36 12 7 0
+REF:  yes I   i i can't say i didn't like english MATH and all OF that i was good at that too i hated history I MEAN what's YOUR point they DEAD it's over WHY you GOING TO   tell me about it PUT that DRAMA in my life I DON'T CARE THAT'S THE   WAY   I    felt 
+HYP:  yes YES i i can't say i didn't like english MASS and all ** that i was good at that too i hated history * ME   what's YOU  point they DID  it's over MAY you ***** WANT tell me about it BUT that DRAWM in my life * ***** **** ****** OHN'S WHERE I'VE felt 
+Eval:     S                                       S            D                                              D S           S               S              S       D     S                     S        S                D D     D    D      S     S     S         
+
+Speaker sentences  15:  dcb_se2_ag4_m_01   #utts: 1
+id: (dcb_se2_ag4_m_01-dcb_se2_ag4_m_01_1_1365784_1375073)
+Scores: (#C #S #D #I) 24 8 5 0
+REF:  THIS and all OF that THIS that AND THE OTHER I'M like man i'm down in my man UH IMA kill me in A  instant so I   MIGHT you AIN'T as bad as you think you are 
+HYP:  **** and all ** that JUST that *** *** NOT   O   like man i'm down in my man ** BUT kill me in AN instant so I'M MY    you AINT  as bad as you think you are 
+Eval: D            D       S         D   D   S     S                               D  S              S             S   S         S                                 
+
+Speaker sentences  16:  dcb_se3_ag3_f_02   #utts: 4
+id: (dcb_se3_ag3_f_02-dcb_se3_ag3_f_02_1_1643640_1664539)
+Scores: (#C #S #D #I) 62 4 2 0
+REF:  and they feel embarrassed because THEY'RE like GOD like this it's embarrassing when they know that you know what they've been doing UM  those stories are always the funniest because they that's when i learned that people can be very creative with their stories when they come up with things even when you say it's on VIDEO oh that's not me i'm LIKE like shaggy THAT'S not you 
+HYP:  and they feel embarrassed because THEY    like GA  like this it's embarrassing when they know that you know what they've been doing ALL those stories are always the funniest because they that's when i learned that people can be very creative with their stories when they come up with things even when you say it's on WIDOW oh that's not me i'm **** like shaggy ****** not you 
+Eval:                                   S            S                                                                                    S                                                                                                                                                                                        S                          D                D              
+
+id: (dcb_se3_ag3_f_02-dcb_se3_ag3_f_02_1_2632973_2651557)
+Scores: (#C #S #D #I) 42 14 12 0
+REF:  we just DON'T it's like we DON'T EVEN LIKE  BAL  I    DON'T know IT'S a thing first OF ALL D C     S        like straight D C      does not claim BALTIMORE at all like it's like they don't ever get along but UM i don't know it's just a thing LIKE we like MM MM people like BALTIMORE MARYLAND NO           just BALTIMORE BALTIMORE we don't claim THE step children 
+HYP:  we just ***** it's like we ***** **** WON'T NEED LIFE I'LL  know THIS a thing first ** *** * OTHER DEASEY'S like straight * DEASEY does not claim BALTIMO   at all like it's like they don't ever get along but ** i don't know it's just a thing THAT we like ** IN people like ********* ******** BALSOMERELLO just BALSSOME  BOSIMO    we don't claim *** step children 
+Eval:         D                  D     D    S     S    S    S          S                  D  D   D S     S                      D S                     S                                                             D                                 S            D  S              D         D        S                 S         S                        D                 
+
+id: (dcb_se3_ag3_f_02-dcb_se3_ag3_f_02_1_2883645_2918424)
+Scores: (#C #S #D #I) 76 24 24 1
+REF:  it was very welcome even to the point I DIDN'T even know that BUT  I    DON'T THINK they did BRANDING very well back then but i DIDN'T even know i thought WE going to the ARC THAT'S WHAT it was it WAS the arc period so when i interviewed and we talked about it even then i said i was about PROBABLY MY MID TWENTIES   and that's when i i went back there for something and *** UM  I   remember SAYING and at THAT time I WAS like OH boys AND GIRLS CLUB TOOK OVER BEEN HERE THE    WHOLE time UH BUT I WAS TELLING UH I WAS LIKE YEAH that's when I  first realized IT WAS the boys AND girls club ALL that time 
+HYP:  it was very welcome even to the point * I'D    even know that THAT THAT ISN'T THING they did BRANDED  very well back then but i DON'T  even know i thought HE going to the *** ARCH   YES  it was it *** the arc period so when i interviewed and we talked about it even then i said i was about ******** ** *** PREMINTIES and that's when i i went back there for something and I'M NOW I'D remember SEEING and at THIS time * I'M like AH boys *** ***** **** **** **** **** **** ARCLIP TOOTH time ** *** * *** ******* ** * *** **** I'M  that's when MY first realized ** OF  the boys IN  girls club OH  that time 
+Eval:                                       D S                     S    S    S     S              S                                  S                          S               D   S      S              D                                                                                            D        D  D   S                                                                I   S   S            S             S         D S        S       D   D     D    D    D    D    D    S      S          D  D   D D   D       D  D D   D    S                S                 D  S            S              S             
+
+id: (dcb_se3_ag3_f_02-dcb_se3_ag3_f_02_1_688108_699492)
+Scores: (#C #S #D #I) 25 11 5 1
+REF:  OH HIGH SCHOOL   was very fun i was pretty much in everything i was on WELL I  started *** DEBATE team IN EIGHTH GRADE       i was on DEBATE TEAM   i was in R O T    C  the whole time UM drama club 
+HYP:  ** O    HYACINTH was very fun i was pretty much in everything i was on **** WE started THE BAIT   team ** AT     EIGHTHGRADE i was on THE    BATEEM i was in * * ARAL CI the whole time M  drama club 
+Eval: D  S    S                                                              D    S          I   S           D  S      S                    S      S               D D S    S                 S             
+
+Speaker sentences  17:  dcb_se3_ag3_m_01   #utts: 3
+id: (dcb_se3_ag3_m_01-dcb_se3_ag3_m_01_1_144766_157246)
+Scores: (#C #S #D #I) 18 6 3 0
+REF:  UM my MOM AND DAD   ARE   from mississippi so my father was born in UH HATTIESBURG   mississippi and my mother is from smith smithville mississippi THE  FARMLANDS 
+HYP:  AH my *** *** MAMMA DADOR from mississippi so my father was born in ** HATTIE'SSBURG mississippi and my mother is from smith smithville mississippi FARM LANDS     
+Eval: S     D   D   S     S                                               D  S                                                                            S    S         
+
+id: (dcb_se3_ag3_m_01-dcb_se3_ag3_m_01_1_338323_346905)
+Scores: (#C #S #D #I) 31 1 1 0
+REF:  no actually i'm a middle child so i have a older brother and i have a younger brother and so i'm dead smack in the middle three MY parents HAD three boys so 
+HYP:  no actually i'm a middle child so i have a older brother and i have a younger brother and so i'm dead smack in the middle three ** parents AT  three boys so 
+Eval:                                                                                                                                 D          S                 
+
+id: (dcb_se3_ag3_m_01-dcb_se3_ag3_m_01_1_89698_106868)
+Scores: (#C #S #D #I) 41 6 7 0
+REF:  in lincoln heights when we first moved here and that was like my PRE K        three PRE K       four days my MOM   IS  a D C D C      teacher so she taught there AND we went to school there but after elementary school graduated from there AND went to middle school in upper MARLBORO 
+HYP:  in lincoln heights when we first moved here and that was like my *** PRECAATE three *** PRECATE four days my MAMMA WAS a * * * DEASEY teacher so she taught there *** we went to school there but after elementary school graduated from there *** went to middle school in upper MARBORO  
+Eval:                                                                  D   S              D   S                    S     S     D D D S                                  D                                                                            D                                  S        
+
+Speaker sentences  18:  dcb_se3_ag3_m_02   #utts: 2
+id: (dcb_se3_ag3_m_02-dcb_se3_ag3_m_02_1_1405037_1410155)
+Scores: (#C #S #D #I) 21 0 1 0
+REF:  UH you know what the biggest difference is going to be he got somebody that's unselfish that will give him the ball 
+HYP:  ** you know what the biggest difference is going to be he got somebody that's unselfish that will give him the ball 
+Eval: D                                                                                                                   
+
+id: (dcb_se3_ag3_m_02-dcb_se3_ag3_m_02_1_2176050_2183078)
+Scores: (#C #S #D #I) 30 4 2 0
+REF:  but i wanted IT i don't want to get HAVE IT     in her mind that the hate that i have for LITTLE boys that she got to well I i don't want to tell HIM  this 
+HYP:  but i wanted TO i don't want to get **** HAVING in her mind that the hate that i have for NO     boys that she got to well * i don't want to tell THEM this 
+Eval:              S                      D    S                                                S                                D                      S         
+
+Speaker sentences  19:  dcb_se3_ag4_f_02   #utts: 3
+id: (dcb_se3_ag4_f_02-dcb_se3_ag4_f_02_1_1043988_1079568)
+Scores: (#C #S #D #I) 77 10 8 2
+REF:  and THAT  was a short span of her life she was very young that she lived in a NEIGHBORHOOD  where she went to school so i had a i grew up in a very robust NEIGHBORHOOD  with children lots of children and we UM played outside ** a lot and AS you probably heard from older people we could go outside and play *** FOREVER until it was dark I mean that stuff about THE the UM    what DO YOU    call it the NIGHT LIGHT       the UM  playing until THE TILL THE THE the lights came on 
+HYP:  and THERE was a short span of her life she was very young that she lived in a NEIGHBOURHOOD where she went to school so i had a i grew up in a very robust NEIGHBOURHOOD with children lots of children and we AM played outside OF a lot and IF you probably heard from older people we could go outside and play FOR EVER    until it was dark * mean that stuff about *** the YEARM what ** YOU'LL call it the ***** NIGHTLIGHTS the O'M playing until *** **** *** *** the lights came on 
+Eval:     S                                                                         S                                                                            S                                                   S                 I            S                                                                    I   S                         D                       D       S          D  S                  D     S               S                 D   D    D   D                      
+
+id: (dcb_se3_ag4_f_02-dcb_se3_ag4_f_02_1_1644310_1671638)
+Scores: (#C #S #D #I) 64 12 9 2
+REF:  so IT was a different she wasn't as ELITIST   and then we had to catch the BUS  together because she lived on CAPITOL hill in ***** SOUTHEAST and then i lived BUT and she lived in ***** SOUTHEAST but it was CAPITOL hill and CAPITOL hill is of course booming even back then it was pretty I   don't know BUT CAPITOL hill WAS weird but YOU KNOW AND i used to have to go ACROSS the bridge so we YOU KNOW got C RODE   the bus together 
+HYP:  so ** was a different she wasn't as ADLETEIST and then we had to catch the BUSS together because she lived on CAPITAL hill in SOUTH EAST      and then i lived *** and she lived in SOUTH EAST      but it was CAPITAL hill and CAPITAL hill is of course booming even back then it was pretty YOU don't know *** CAPITAL hill *** weird but *** **** *** i used to have to go CROSS  the bridge so we *** NO   got * ROLLED the bus together 
+Eval:    D                                S                                      S                                  S               I     S                          D                    I     S                    S                S                                                              S              D   S            D             D   D    D                        S                       D   S        D S                       
+
+id: (dcb_se3_ag4_f_02-dcb_se3_ag4_f_02_1_3624332_3665194)
+Scores: (#C #S #D #I) 87 10 5 1
+REF:  I HAVE been so that really just the only time that i do that type of stuff i mean i really want to do better at that and UM is when people come to town now i you know and i have a ** and as i've gotten older I   definitely you know that's definitely on M    my to do list UM and THEN YOU KNOW     THERE'S certain things THAT i even forgot existed like the frederick DOUGLASS house is like right in ANACOSTIA   up on the hill and i had totally FORGOTTEN about that until somebody mentioned did you tell me THAT 
+HYP:  * I'VE been so that really just the only time that i do that type of stuff i mean i really want to do better at that and OH is when people come to town now i you know and i have a OH and as i've gotten older I'D definitely you know that's definitely on WHAT my to do list OH and **** *** THERE'VE A       certain things **** i even forgot existed like the frederick DOUGLAS  house is like right in ANNACOSSSTY up on the hill and i had totally WON       about that until somebody mentioned did you tell me **** 
+Eval: D S                                                                                                                      S                                                          I                           S                                            S                  S      D    D   S        S                      D                                             S                               S                                            S                                                             D    
+
+Speaker sentences  20:  dcb_se3_ag4_m_01   #utts: 2
+id: (dcb_se3_ag4_m_01-dcb_se3_ag4_m_01_1_1148305_1163197)
+Scores: (#C #S #D #I) 38 1 1 0
+REF:  you know listening to my daughter THAT that phrase comes up like six seven times in A   course of a conversation with her and there's a lot of stuff in you know what i'm saying that you never get to 
+HYP:  you know listening to my daughter **** that phrase comes up like six seven times in THE course of a conversation with her and there's a lot of stuff in you know what i'm saying that you never get to 
+Eval:                                   D                                                 S                                                                                                                  
+
+id: (dcb_se3_ag4_m_01-dcb_se3_ag4_m_01_1_3212518_3245845)
+Scores: (#C #S #D #I) 84 19 15 2
+REF:  you know they saw us like oh OKAY WELL these black people you know NIGGAS GETTING UNR  R   RESTLESS   you know we ain't PUTTING UP    WITH this you know particularly when they saw us in like positions as senators and THEY WERE    like UH UH Y'ALL Y'ALL got TO fix the rules to GET them **** where they supposed TO belong and all of those positions that they got during reconstruction they lost because the white GOVERNMENT  the white STATE GOVERNMENT  figured out a way to get them out of office with all kind of *** crazy tests that YOU HAD TO       how many marbles IN A BOTTLE READ THIS PARAGRAPH OH YOU DIDN'T read it right you can't vote 
+HYP:  you know they saw us like oh KAY  WI   these black people you know AND    YE      GOES GET UNRRESLESS you know we ain't ******* PUTIN FOR  this you know particularly when they saw us in like positions as senators and **** THEY'RE like ON YO YO    YOU   got ** fix the rules to GIT them BACK where they supposed ** belong and all of those positions that they got during reconstruction they lost because the white GOVERNMENTS the white ***** GOVERNMENTS figured out a way to get them out of office with all kind of ONE crazy tests that *** *** THEY'DED how many marbles ** * ****** **** **** ********* ** *** INN'T  read it right you can't vote 
+Eval:                              S    S                                S      S       S    S   S                            D       S     S                                                                                  D    S            S  S  S     S         D                   S        I                        D                                                                                                    S                     D     S                                                                        I                    D   D   S                         D  D D      D    D    D         D  D   S                                   
+
+Speaker sentences  21:  dcb_se3_ag4_m_02   #utts: 1
+id: (dcb_se3_ag4_m_02-dcb_se3_ag4_m_02_1_330093_349820)
+Scores: (#C #S #D #I) 52 4 3 1
+REF:  to take the TEST  for and i did initially i wasn't accepted and UM  but they asked me to come back for a second interview and I ultimately was accepted *** so I i i went there my sister went to coolidge high school which was the high school in our neighborhood IN IN  TACOMA    park section of d c 
+HYP:  to take the TESTS for and i did initially i wasn't accepted and NOW but they asked me to come back for a second interview and * ultimately was accepted AND so * i i went there my sister went to coolidge high school which was the high school in our neighborhood ** AND INTERCOME park section of d c 
+Eval:             S                                                   S                                                             D                         I      D                                                                                                     D  S   S                             
+
+Speaker sentences  22:  prv_se0_ag1_f_01   #utts: 11
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_1086962_1100671)
+Scores: (#C #S #D #I) 36 6 2 0
+REF:  one BATHROOM small living room small kitchen all of US  like into one JUST ridiculous and now you go to her house her house is not SITTING in the same space IT'S KIND OF     further back it sit up they got TO build up 
+HYP:  one BEDROOM  small living room small kitchen all of WAS like into one IS   ridiculous and now you go to her house her house is not ******* in the same space **** IS   CANNOT further back it sit up they got IT build up 
+Eval:     S                                               S                 S                                                            D                         D    S    S                                      S           
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_1793116_1798463)
+Scores: (#C #S #D #I) 13 6 5 1
+REF:  **** WHAT we look for you know like OKAY MY GRANDMA'S like i said WELL she said WELL i PUT IT OUT I       WAS   like 
+HYP:  BOOK WILL we look for you know like **** ** O'AMOR    like i said W    she said WHAT i *** ** *** PUTTING HOUSE like 
+Eval: I    S                              D    D  S                     S             S      D   D  D   S       S          
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_1848815_1854862)
+Scores: (#C #S #D #I) 6 5 0 1
+REF:  she's ** UM  A   S   staff something MM what is it CALLED 
+HYP:  she's ON MAH OST HIS staff something UN what is it CALL   
+Eval:       I  S   S   S                   S             S      
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_2023946_2032637)
+Scores: (#C #S #D #I) 26 2 1 0
+REF:  for the boys AND GIRLS club and UM you you have to like if they have problems you should be there for them to talk to them you know 
+HYP:  for the boys *** INERS club and ON you you have to like if they have problems you should be there for them to talk to them you know 
+Eval:              D   S              S                                                                                                   
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_239146_247906)
+Scores: (#C #S #D #I) 29 8 3 0
+REF:  what IS  the problem she was like when IT SNOW Y'ALL shut everything DOWN she was like it is not that serious i SAID yes it is for us WE'RE not USED TO NO    SNOW we shut every she said 
+HYP:  what WAS the problem she was like when ** ISTO NOW   shut everything NOW  she was like it is not that serious i SAY  yes it is for us WE'N  not **** ** USING NOLL we shut every she said 
+Eval:      S                                 D  S    S                     S                                          S                     S         D    D  S     S                           
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_263425_268630)
+Scores: (#C #S #D #I) 16 5 1 1
+REF:  IT'S just NO  SOMETHING that JUST really like i mean we always we got snow but ** IT'S not like a lot LIKE 
+HYP:  IS   just NOT SOMETHIN  that JIST really like i mean we always we got snow but IT IS   not like a lot **** 
+Eval: S         S   S              S                                                 I  S                   D    
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_702727_714055)
+Scores: (#C #S #D #I) 30 2 2 0
+REF:  so she said THAT UM   my aunt's UM husband friend HELP   her hold her and swim with her to the boat and it was a lot of people on top of houses you know 
+HYP:  so she said **** ALMO my aunt's ** husband friend HELPED her hold her and swim with her to the boat and it was a lot of people on top of houses you know 
+Eval:             D    S              D                 S                                                                                                      
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_739073_752753)
+Scores: (#C #S #D #I) 38 10 2 1
+REF:  either greenville somewhere around the surroundings of princeville and TARBORO that we would stay WITH cause UM PARTS OF     TARBORO didn't get flooded **** DOWNTOWN really did but it wasn't as bad as princeville you know that WASN'T but FOR the grace of god THAT HE  just DIDN'T wipe everything out 
+HYP:  either greenville somewhere around the surroundings of princeville and TARBER  that we would stay ON   cause ** SOME  PARSON TARB    didn't get flooded DOWN TOWN     really did but it wasn't as bad as princeville you know that WOULD  but *** the grace of god IT   DID just THEN   wipe everything out 
+Eval:                                                                        S                          S          D  S     S      S                          I    S                                                                     S          D                    S    S        S                          
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_817743_824865)
+Scores: (#C #S #D #I) 17 7 4 1
+REF:  maybe the clothes on THEIR BACK some of MIGHT had on BEDROOM shoes and * EVERYTHING or some of 'EM I DON'T think SOME OF 'EM     had on shoes 
+HYP:  maybe the clothes on THAT  BAG  some of MY    had on BEARING shoes and A THING      or some of *** * ION   think **** ** SOMEONE had on shoes 
+Eval:                      S     S            S            S                 I S                     D   D S           D    D  S                    
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_1_895332_910331)
+Scores: (#C #S #D #I) 40 6 4 0
+REF:  and UM  certain people took RISK  and they went through there and THEY was like but a week and A HALF went by i think a week maybe a week or four OR five days went by we went through and UM  like just to see LIKE like WHAT HAP    
+HYP:  and ARE certain people took RISKS and they went through there and IT   was like but a week and * HAVE went by i think a week maybe a week or four ** five days went by we went through and I'M like just to see **** like **** WHAT'D 
+Eval:     S                       S                                     S                            D S                                                D                                        S                    D         D    S      
+
+id: (prv_se0_ag1_f_01-prv_se0_ag1_f_01_2_361659_369799)
+Scores: (#C #S #D #I) 16 12 1 1
+REF:  LIKE i'm just going to CHILL just ******* OUT   THERE have NOTHING PLANNED because i got the house TO myself because my mother NOW THEY GONE TO    GREENSBORO I'M   like 
+HYP:  NE   i'm just going to CHEW  just ATHELLE YOU'M JUST  have NATHIN  PLAYING because i got the house OF myself because my mother *** NOT  ATE  GONES GREEN'S    BROWN like 
+Eval: S                      S          I       S     S          S       S                               S                           D   S    S    S     S          S          
+
+Speaker sentences  23:  prv_se0_ag1_f_02   #utts: 1
+id: (prv_se0_ag1_f_02-prv_se0_ag1_f_02_2_173701_179076)
+Scores: (#C #S #D #I) 15 2 1 0
+REF:  AND IT'S LIKE my dad's family is even close with my family because they all grew up together 
+HYP:  *** IS   BUT  my dad's family is even close with my family because they all grew up together 
+Eval: D   S    S                                                                                   
+
+Speaker sentences  24:  prv_se0_ag2_f_02   #utts: 4
+id: (prv_se0_ag2_f_02-prv_se0_ag2_f_02_1_1322156_1330598)
+Scores: (#C #S #D #I) 22 3 0 0
+REF:  but it was much distant than THEY are NOW  and UH but when we did we had good time but it was basically on sundays 
+HYP:  but it was much distant than DE   are NAME and NO but when we did we had good time but it was basically on sundays 
+Eval:                              S        S        S                                                                   
+
+id: (prv_se0_ag2_f_02-prv_se0_ag2_f_02_1_2410419_2419278)
+Scores: (#C #S #D #I) 16 6 5 0
+REF:  he deceased NOW BUT    his wife is still living and UH TELL YOU THE TRUTH I  THINK that was the first black DOCTOR THAT i ever known 
+HYP:  he deceased *** NUMBER his wife is still living and ** **** *** AH  TOUR  OF THING that was the first black ****** DOLL i ever known 
+Eval:             D   S                                   D  D    D   S   S     S  S                              D      S                 
+
+id: (prv_se0_ag2_f_02-prv_se0_ag2_f_02_2_410739_422869)
+Scores: (#C #S #D #I) 23 7 3 1
+REF:  and UM like he's a pastor of two churches he used TO  HAVE three but ***** HE     a PASTOR OF UH two churches and AT   MOUNT    ZION here in princeville which is the oldest 
+HYP:  and NO like he's a pastor of two churches he used SAY HAD  three but HE'LL PASSER a ****** ** ** two churches and THAT MOUNTAIN SANE here in princeville which is the oldest 
+Eval:     S                                             S   S              I     S        D      D  D                   S    S        S                                            
+
+id: (prv_se0_ag2_f_02-prv_se0_ag2_f_02_2_777158_782721)
+Scores: (#C #S #D #I) 8 3 0 0
+REF:  this was like UM A     WEDNESDAY night when it started raining 
+HYP:  this was like O  WINDS THE       night when it started raining 
+Eval:               S  S     S                                       
+
+Speaker sentences  25:  prv_se0_ag2_f_03   #utts: 1
+id: (prv_se0_ag2_f_03-prv_se0_ag2_f_03_1_33962_40487)
+Scores: (#C #S #D #I) 7 10 4 0
+REF:  ALL OF 'EM all of 'EM my GRANDMAMA   she DEAD my GRANDDADDY GONE my MAMA  SHE   STILL HERE  SHE  STILL living 
+HYP:  *** ** *** all of *** my GRANDMOTHER she DID  my GRANDADATE GOIN my MAMMA SHE'S DEER  HEREA JEST DEAR  living 
+Eval: D   D  D          D      S               S       S          S       S     S     S     S     S    S            
+
+Speaker sentences  26:  prv_se0_ag3_f_01   #utts: 1
+id: (prv_se0_ag3_f_01-prv_se0_ag3_f_01_2_488476_509921)
+Scores: (#C #S #D #I) 42 3 0 0
+REF:  that was A   that was a real sad ordeal can you imagine seeing one of the citizens in your ward on their knees face down in the earth under the condition that this SOIL was in after the flood BOOHOOING and crying for their losses 
+HYP:  that was AND that was a real sad ordeal can you imagine seeing one of the citizens in your ward on their knees face down in the earth under the condition that this SOUL was in after the flood BUOE      and crying for their losses 
+Eval:          S                                                                                                                                                          S                           S                                     
+
+Speaker sentences  27:  prv_se0_ag3_f_02   #utts: 8
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_1_141536_147530)
+Scores: (#C #S #D #I) 16 4 1 0
+REF:  UH my dad also had a garage and store which was LOCATED in THE area where the CEMENT is OUT there 
+HYP:  ** my dad also had a garage and store which was LOOKING in AN  area where the SEAMIT is UP  there 
+Eval: D                                               S          S                  S         S         
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_1_1693504_1699318)
+Scores: (#C #S #D #I) 9 3 1 0
+REF:  you know how to become a better PARENT UM      UH parent control PARENTING 
+HYP:  you know how to become a better ****** PARENTS AH parent control PARENTED  
+Eval:                                 D      S       S                 S         
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_1_1750993_1757262)
+Scores: (#C #S #D #I) 17 0 0 0
+REF:  they're grown now they might not remember you completely but they remember some things that they did 
+HYP:  they're grown now they might not remember you completely but they remember some things that they did 
+Eval:                                                                                                      
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_2_1083422_1090341)
+Scores: (#C #S #D #I) 12 1 0 0
+REF:  and let's see somebody else UH have you ever heard of thomas reeves 
+HYP:  and let's see somebody else OH have you ever heard of thomas reeves 
+Eval:                             S                                       
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_2_1292288_1297951)
+Scores: (#C #S #D #I) 17 0 1 0
+REF:  and you know WE we found kids during that time years ago that was in really bad shape 
+HYP:  and you know ** we found kids during that time years ago that was in really bad shape 
+Eval:              D                                                                        
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_2_1965995_1971167)
+Scores: (#C #S #D #I) 14 2 1 1
+REF:  and it was ****** really really GETTING ready to fall in and they had a TRAVELER TRAVEL  trailer 
+HYP:  and it was REALLY really really GETTIN  ready to fall in and they had a ******** TRAILER trailer 
+Eval:            I                    S                                       D        S               
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_2_816661_829223)
+Scores: (#C #S #D #I) 32 10 8 1
+REF:  my MOM W UM    you know SH  when she was H had the store and she would USED to close the store about UH eleven O CLOCK   and she would UH promise us now when ** WE'RE CLOSED UP WE'RE just GOING TO take a RIDE AND   look at the town 
+HYP:  my *** * MAMMA you know SHE when she was * had the store and she would USE  to close the store about ** eleven * O'CLOCK and she would ** promise us now when WE CLOSE OUT    WE COULD just ***** GO take a **** RIGHT look at the town 
+Eval:    D   D S              S                D                             S                             D         D S                     D                      I  S     S      S  S          D     S         D    S                      
+
+id: (prv_se0_ag3_f_02-prv_se0_ag3_f_02_2_889873_895622)
+Scores: (#C #S #D #I) 14 3 1 0
+REF:  NORTH you know where the park where UM the trail began after you come OFF THE tar river 
+HYP:  ***** you know where the park where OL the trail began after you come OUT TO  tar river 
+Eval: D                                   S                                 S   S             
+
+Speaker sentences  28:  prv_se0_ag3_f_04   #utts: 6
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_1_1293311_1304852)
+Scores: (#C #S #D #I) 10 5 1 4
+REF:  ** and ** ** UM  she want to go S to THE UM christmas ** PARADE to see the HORSES 
+HYP:  AN and OH NO YOU she want to go * to DE  ON christmas OF FERADE to see the HORSE  
+Eval: I      I  I  S                  D    S   S            I  S                 S      
+
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_1_21942_34079)
+Scores: (#C #S #D #I) 16 9 0 2
+REF:  and THEN after THE service we went on ** INTO sunday school and AROUND ten ***** THIRTY maybe SOMETHING ELEVEN WE   left and went to saint LUKE 
+HYP:  and DIN  after DE  service we went on IN THE  sunday school and ROUND  ten THIRD O      maybe SOMETHIN  DEVER  WE'D left and went to saint DU   
+Eval:     S          S                      I  S                      S          I     S            S         S      S                           S    
+
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_1_2296717_2302779)
+Scores: (#C #S #D #I) 8 1 0 1
+REF:  and so this lady she was a ****** PRINCIPAL too 
+HYP:  and so this lady she was a PRINCE BUT       too 
+Eval:                            I      S             
+
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_3_1229788_1238482)
+Scores: (#C #S #D #I) 7 4 1 0
+REF:  MM HM  she had cooked the meat THOUGH STRING BEAN    and corn 
+HYP:  ** INN she had cooked the meat DO     STREAM BEAMING and corn 
+Eval: D  S                           S      S      S                
+
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_3_1432645_1439701)
+Scores: (#C #S #D #I) 7 10 2 0
+REF:  AND she flew up THERE AND i KNOW SHE     IF she WONT  EIGHTY THEN it WONT  FAR  from IT 
+HYP:  AN  she flew up DAT   AN  i **** KNOWSEE EH she WON'T AIDED  DEAN it WON'T FALL from ** 
+Eval: S               S     S     D    S       S      S     S      S       S     S         D  
+
+id: (prv_se0_ag3_f_04-prv_se0_ag3_f_04_3_72404_78650)
+Scores: (#C #S #D #I) 3 5 0 2
+REF:  but SHE    been *** DEAD UH right **** MANY YEARS 
+HYP:  but SHE'VE been DAT OH   AH right MEAN A    YEAR  
+Eval:     S           I   S    S        I    S    S     
+
+Speaker sentences  29:  prv_se0_ag3_m_01   #utts: 10
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_1059096_1070592)
+Scores: (#C #S #D #I) 16 3 1 1
+REF:  if you don't UH  nurture it * UH  take care of it it will still produce UM a small defected ACRON 
+HYP:  if you don't NOW nurture it I AND take care of it it will still produce ** a small defected APRON 
+Eval:              S              I S                                         D                   S     
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_1239328_1249532)
+Scores: (#C #S #D #I) 25 1 0 0
+REF:  but at the same time they need to be gently AWAKENED to say well the only way we can get past that is to address it 
+HYP:  but at the same time they need to be gently AWAKEN   to say well the only way we can get past that is to address it 
+Eval:                                             S                                                                       
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_1266334_1283477)
+Scores: (#C #S #D #I) 31 5 2 1
+REF:  well this place from what i've been told UM F W  was first called freedom hill and UM i can imagine my great great ***** GRANDPARENTS were part of those UM  first freed UM slaves that would settle here 
+HYP:  well this place from what i've been told ** * AH was first called freedom hill and NO i can imagine my great great GRAND PARENTS      were part of those ALL first freed YO slaves that would settle here 
+Eval:                                          D  D S                                    S                               I     S                               S               S                                
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_1321129_1339820)
+Scores: (#C #S #D #I) 40 5 0 1
+REF:  UH and so all of a sudden i guess **** SOMEONE assigned said well that's a safe HAVEN  for them because jim crowism was still going on that the some of the southerners JUST was bitter about taking their free free slave labor away from 'EM 
+HYP:  AH and so all of a sudden i guess SOME ONE     assigned said well that's a safe HEAVEN for them because jim crowism was still going on that the some of the southerners JEST was bitter about taking their free free slave labor away from HIM 
+Eval: S                                 I    S                                        S                                                                                       S                                                                  S   
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_1997146_2020374)
+Scores: (#C #S #D #I) 56 6 3 0
+REF:  and we used to sweep it with the brush BROOMS and it would look neat A UH once YOU CL you KNOW  got it CLEANED and neat and UM i used to lay on that ground and look at that dog look him in his eyes and he'd LOOK   me right in mine and then i would draw him i would draw on this ground 
+HYP:  and we used to sweep it with the brush BROONS and it would look neat * AH once *** ** you CLENO got it CLEAN   and neat and NO i used to lay on that ground and look at that dog look him in his eyes and he'd LOOKED me right in mine and then i would draw him i would draw on this ground 
+Eval:                                        S                             D S       D   D      S            S                    S                                                                                  S                                                                             
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_2244102_2252630)
+Scores: (#C #S #D #I) 26 1 1 0
+REF:  and when he cut it just in time it wrapped around that car THE car's wheel and we were standing on it on the line on the SIDEWALK 
+HYP:  and when he cut it just in time it wrapped around that car *** car's wheel and we were standing on it on the line on the SIDEWAL  
+Eval:                                                            D                                                             S        
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_2638522_2653973)
+Scores: (#C #S #D #I) 15 3 1 0
+REF:  YEP the years UH was IT forty nine and fifty and UM  i would meet our music teacher missus 
+HYP:  YEA the years OF was ** forty nine and fifty and NOW i would meet our music teacher missus 
+Eval: S             S      D                           S                                         
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_1_986228_1000398)
+Scores: (#C #S #D #I) 27 3 3 1
+REF:  to present it without UM L F U      looking looking like a threat we just want people to acknowledge the wrong and LET'S see if we can UM do something ***** correcting it because 
+HYP:  to present it without ** * * AUTUMN looking looking like a threat we just want people to acknowledge the wrong and LES   see if we can NO do something ABOUT correcting it because 
+Eval:                       D  D D S                                                                                     S                   S               I                           
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_2_1147331_1160623)
+Scores: (#C #S #D #I) 36 8 8 0
+REF:  and she say I SAID well I'M i'm just CONCENTRATING I SAID BUT           I'M   all right SHE SAID  have you decided what you going to sing i say UM i got two or three things UM THAT i would like to do but i don't know which one I'M GOING TO    do 
+HYP:  and she say * I'S  well EM  i'm just ************* * **** CONCENTRATEIN NOW'M all right *** SHE'S have you decided what you going to sing i say ** i got two or three things OR DAT  i would like to do but i don't know which one *** ***** EM'LL do 
+Eval:             D S         S            D             D D    S             S               D   S                                                   D                            S  S                                                  D   D     S        
+
+id: (prv_se0_ag3_m_01-prv_se0_ag3_m_01_2_337858_348258)
+Scores: (#C #S #D #I) 12 3 2 0
+REF:  THAT it UM   it was just A a rough place to try to find YOUR your STARDOM 
+HYP:  DID  it DOOM it was just * a rough place to try to find **** your STARTEM 
+Eval: S       S                D                              D         S       
+
+Speaker sentences  30:  prv_se0_ag3_m_02   #utts: 3
+id: (prv_se0_ag3_m_02-prv_se0_ag3_m_02_1_11595_17685)
+Scores: (#C #S #D #I) 11 11 6 0
+REF:  YEAH WELL ACTUALLY he ain't EVEN working RIGHT NOW  HIS   KNEE'S GETTING bad RIGHT he GETTING ready to go to THE hospital TO  get HIS KNEE S O    
+HYP:  **** **** ESSE     he ain't ABLE working ***** NINE KNEES GUN    IN      bad I     he GET     ready to go to *** hospital AND get *** **** A DECE 
+Eval: D    D    S                 S            D     S    S     S      S           S        S                      D            S       D   D    S S    
+
+id: (prv_se0_ag3_m_02-prv_se0_ag3_m_02_2_1033958_1042796)
+Scores: (#C #S #D #I) 32 2 1 0
+REF:  and then the water come in washed it out AND a lot of people don't know which way to go to get the stuff back SEE a lot OF them people they got these got 
+HYP:  and then the water come in washed it out *** a lot of people don't know which way to go to get the stuff back SO  a lot O  them people they got these got 
+Eval:                                          D                                                                    S         S                                 
+
+id: (prv_se0_ag3_m_02-prv_se0_ag3_m_02_2_65047_72323)
+Scores: (#C #S #D #I) 10 5 4 0
+REF:  it runs UH OUGHT WE SUPPOSED TO     be SOMETHING LIKE  where IT'S calls that four miles out YOUR district 
+HYP:  it runs ** ***** ** ******** OWERTA be SOME      LIGHT where IT   calls that four miles out YO   district 
+Eval:         D  D     D  D        S         S         S           S                              S             
+
+Speaker sentences  31:  prv_se0_ag3_m_03   #utts: 5
+id: (prv_se0_ag3_m_03-prv_se0_ag3_m_03_1_1067264_1076116)
+Scores: (#C #S #D #I) 3 12 4 1
+REF:  well I S S STAYED SINGLE FOR    about *** FROM FROM   I STAYED SINGLE I   RECKON about SIX SEVEN  YEARS 
+HYP:  well * * * I'ST   STAY'S SINGER about PUN PROM AUSTER A STAID  SING   OUR RING   about *** SIXTHY MEAL  
+Eval:      D D D S      S      S            I   S    S      S S      S      S   S            D   S      S     
+
+id: (prv_se0_ag3_m_03-prv_se0_ag3_m_03_1_1412830_1418584)
+Scores: (#C #S #D #I) 14 8 5 1
+REF:  MM HM when i G WHEN     you know BUT but i ***** THERE FOR a little before i WAS TWENTY SEE      THEY PULL ME  before i got twenty 
+HYP:  ** ** when i * COULDN'T you know *** but i WOULD DEFT  BE  a little before i *** WERE   TWENTY'S AGED POOR HIM before i got twenty 
+Eval: D  D         D S                 D         I     S     S                     D   S      S        S    S    S                       
+
+id: (prv_se0_ag3_m_03-prv_se0_ag3_m_03_1_1708563_1714667)
+Scores: (#C #S #D #I) 5 9 1 0
+REF:  UH N  THAT'S WHAT I WAS telling you about in the HOUSES THAT WAY UP  
+HYP:  ** AH NO     IT'S A LOT telling you about in the HOUSE  NOW  WE  ARE 
+Eval: D  S  S      S    S S                            S      S    S   S   
+
+id: (prv_se0_ag3_m_03-prv_se0_ag3_m_03_1_1782492_1788009)
+Scores: (#C #S #D #I) 9 12 5 0
+REF:  IT'S a little on the tight side NOW CAUSE THE GOVERNMENT TOOK THEIR PRESIDENT AND ALL THEM       CROWD DONE    took all THIS money AWAY FROM 'EM  
+HYP:  **** a little on the tight side *** ***** *** AND        I    COULD IT        GOB THE PRELISTENT OWN   CROWDIN took all HIS  money **** WAY  POMP 
+Eval: D                               D   D     D   S          S    S     S         S   S   S          S     S                S          D    S    S    
+
+id: (prv_se0_ag3_m_03-prv_se0_ag3_m_03_1_624766_631311)
+Scores: (#C #S #D #I) 8 6 0 1
+REF:  join in with GENERAL mark CLARK i think **** THAT'S HIS name GENERAL mark CLARK 
+HYP:  join in with JOAN    mark CLOCK i think THIS IS     THE name JOAN    mark CLAW  
+Eval:              S            S             I    S      S        S            S     
+
+Speaker sentences  32:  roc_se0_ag1_f_01   #utts: 4
+id: (roc_se0_ag1_f_01-roc_se0_ag1_f_01_1_1786399_1804459)
+Scores: (#C #S #D #I) 55 1 5 0
+REF:  I'M i'm not worry about a confederate flag flying you know across my face or driving behind somebody AND THEY spit on my car because i'm black you know BUT THE AND my brother has told me about things that have happened just because he's black so i don't worry about that here so i'm thankful for that i should say 
+HYP:  *** i'm not worry about a confederate flag flying you know across my face or driving behind somebody *** ANDY spit on my car because i'm black you know *** *** *** my brother has told me about things that have happened just because he's black so i don't worry about that here so i'm thankful for that i should say 
+Eval: D                                                                                                    D   S                                              D   D   D                                                                                                                                                         
+
+id: (roc_se0_ag1_f_01-roc_se0_ag1_f_01_1_2685915_2720794)
+Scores: (#C #S #D #I) 77 11 9 1
+REF:  about ******* so it depends UM but i think it here i feel like a lot of people are from DOWN SOUTH    A   lot of people have come up to ROCHESTER  in particular because of job opportunities and different things at the time so most of everybody i know has roots somewhere else THEY  aren't actually BORN  HERE  i can't trace anybody back that i know of that was JUST   HAS always been here which makes sense in history unless SOMEBODY'S FAMILY WAS AN INDENTURED SERVANT I    DON'T   really know anybody that was BORN AND just bred here 
+HYP:  about HERBERT so it depends ON but i think it here i feel like a lot of people are from **** DOWNHILL THE lot of people have come up to RADCHESTER in particular because of job opportunities and different things at the time so most of everybody i know has roots somewhere else THERE aren't actually BORNE THERE i can't trace anybody back that i know of that was JISTER HAD always been here which makes sense in history unless ********** ****** *** ** ********** ******* HE'S WEREN'T really know anybody that was **** *** just bred here 
+Eval:       I                     S                                                           D    S        S                                 S                                                                                                                                           S                     S     S                                                        S      S                                                        D          D      D   D  D          D       S    S                                    D    D                  
+
+id: (roc_se0_ag1_f_01-roc_se0_ag1_f_01_1_2814366_2829390)
+Scores: (#C #S #D #I) 45 3 1 0
+REF:  if that makes sense and they don't get a lot of my references like jokes OR  UM i can't think of anything right now but things i would say they'd be like WHO if i were to say who SHOT john you know you know what i'm talking about 
+HYP:  if that makes sense and they don't get a lot of my references like jokes ARE OH i can't think of anything right now but things i would say they'd be like *** if i were to say who SHAD john you know you know what i'm talking about 
+Eval:                                                                          S   S                                                                            D                        S                                                  
+
+id: (roc_se0_ag1_f_01-roc_se0_ag1_f_01_1_453489_469577)
+Scores: (#C #S #D #I) 56 8 7 1
+REF:  A lot of the kids i went to ELEMENTARY from i was OVERWEIGHT GROWING up so A lot of the kids were going to wilson and i didn't want to go because they USED TO TEASE  me all the time so i didn't want to go to wilson and i didn't want to go to A all GIRLS school CAUSE I    was like great i'm never going TO have *** A      BOYFRIEND 
+HYP:  * lot of the kids i went to ELLEMENTRY from i was OVERWAIGHT GROWN   up so * lot of the kids were going to wilson and i didn't want to go because they **** ** SEIZED me all the time so i didn't want to go to wilson and i didn't want to go to * all GIRL  school ***** SOME was like great i'm never going ** have BOY FRIEND HAT       
+Eval: D                           S                     S          S             D                                                                           D    D  S                                                                                  D     S            D     S                                   D       I   S      S         
+
+Speaker sentences  33:  roc_se0_ag1_f_02   #utts: 2
+id: (roc_se0_ag1_f_02-roc_se0_ag1_f_02_1_1117598_1130479)
+Scores: (#C #S #D #I) 40 2 6 0
+REF:  LIKE three or four people that i knew in college like pretty well and i had no idea that they were there and i had just got to D C     so I was trying to KIND OF build my network of people UM  so I'M glad i went 
+HYP:  **** three or four people that i knew in college like pretty well and i had no idea that they were there and i had just got to * DECEY so * was trying to **** ** build my network of people I'M so *** glad i went 
+Eval: D                                                                                                                              D S        D               D    D                             S      D               
+
+id: (roc_se0_ag1_f_02-roc_se0_ag1_f_02_1_422637_464536)
+Scores: (#C #S #D #I) 101 20 12 4
+REF:  UM   it was CHALLENGING because i think at that point UM so when i entered i was like thirteen thirteen or fourteen and i think at that point i started to realize that you know not EVERYBODY'S so like UH LET ME   take A STEP back so i would participate in different community SERVICE  activities so * one of the things that we did is like interact with like UM SCH students that ** went to like SUBURBAN high schools and so **** I    think like going TO THEIR FACILITIES and STUFF like THAT i NOTICED LIKE  STARTED to notice differences BETWEEN like THE  schools *** like my school and their SCHOOL  so like my SCHOOL YOU     KNOW soon as YOU walk before you can get into the school you HAVE to go through MEDICAL medical UH 
+HYP:  ONLY it was CHANGING    because i think at that point AM so when i entered i was like thirteen thirteen or fourteen and i think at that point i started to realize that you know not EVERYBODY   so like ** ALL THEM take * SO   back so i would participate in different community SERVICES activities so A one of the things that we did is like interact with like ** EM  students that WE went to like EMBURBIN high schools and so I'LL THEM think like going ** ***** TOILITIES  and SO    like **** i ******* WOULD PARTED  to notice differences ******* like YOUR schools ALL like my school and their SCHOOLS so like my ****** SCHOOLS AS   soon as *** walk before you can get into the school you HAD  to go through ******* medical ** 
+Eval: S           S                                         S                                                                                                                              S                   D  S   S         D S                                                       S                      I                                                          D  S                 I               S                            I    S                     D  D     S              S          D      D       S     S                             D            S            I                            S                  D      S       S            D                                               S                  D               D  
+
+Speaker sentences  34:  roc_se0_ag1_f_03   #utts: 3
+id: (roc_se0_ag1_f_03-roc_se0_ag1_f_03_1_1654023_1664888)
+Scores: (#C #S #D #I) 42 0 0 0
+REF:  i would do those and i would be really happy doing it i just like now i know and if i have a kid like i'll just try not to make their life hell and make them feel like they can stay 
+HYP:  i would do those and i would be really happy doing it i just like now i know and if i have a kid like i'll just try not to make their life hell and make them feel like they can stay 
+Eval:                                                                                                                                                                                       
+
+id: (roc_se0_ag1_f_03-roc_se0_ag1_f_03_1_2721964_2731344)
+Scores: (#C #S #D #I) 22 1 0 0
+REF:  UM i think that like places deep on the west side and deep on the east side are probably like in the city 
+HYP:  AM i think that like places deep on the west side and deep on the east side are probably like in the city 
+Eval: S                                                                                                         
+
+id: (roc_se0_ag1_f_03-roc_se0_ag1_f_03_1_868173_881744)
+Scores: (#C #S #D #I) 25 0 2 0
+REF:  so if you combine that with UH a career goal that IT it it only reaches success if someone likes the way you look you could be 
+HYP:  so if you combine that with ** a career goal that ** it it only reaches success if someone likes the way you look you could be 
+Eval:                             D                     D                                                                            
+
+Speaker sentences  35:  roc_se0_ag1_m_01   #utts: 7
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_1094303_1131206)
+Scores: (#C #S #D #I) 59 18 5 2
+REF:  UM    honestly my MOM picked every single school that i went to UM  so it started OF  with pre K AT  and then i went to UM from K   through second after i went to ** from third until six AT is ** WHERE   I  STARTED REALIZING why i was different from other people CAUSE   like i was in FOURTH GRADE       literally like a week and THEY COME up to me AND ARE like have you ever heard about THE AND  I'M   like no 
+HYP:  ALMOM honestly my MAM picked every single school that i went to ALM so it started OFF with pre * KEF and then i went to OM from KAY through second after i went to DO from third until six IT is WE WEREN'T TO THEE    IN        why i was different from other people BECAUSE like i was in ****** FOURTHGRADE literally like a week and HE   CAME up to me *** *** like have you ever heard about *** THEM AND'M like no 
+Eval: S                 S                                             S                 S            D S                      S       S                                  I                       S     I  S       S  S       S                                               S                     D      S                                     S    S             D   D                                  D   S    S             
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_1473998_1493891)
+Scores: (#C #S #D #I) 44 8 1 2
+REF:  then i'll teach you calculus and i'm like OKAY so ** first you know i'm not really learning nothing because i'm not teaching well but eventually UM he taught me he taught me CALCULUS   and i'm sitting here I'M like ** OKAY derivatives HUH OKAY and UM the thing about is we don't take REGENTS 
+HYP:  then i'll teach you calculus and i'm like OY   so AT first you know i'm not really learning nothing because i'm not teaching well but eventually OM he taught me he taught me CALCULATES and i'm sitting here EM  like OH CASE derivatives AH  OHY  and ** the thing about is we don't take REGIONS 
+Eval:                                           S       I                                                                                              S                            S                               S        I  S                S   S        D                                   S       
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_1997487_2005526)
+Scores: (#C #S #D #I) 8 3 0 1
+REF:  UM  like the education i got from *** was was TOP   TIER 
+HYP:  ALL like the education i got from HIM was was TOPED HERE 
+Eval: S                                 I           S     S    
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_2542169_2591051)
+Scores: (#C #S #D #I) 99 23 15 7
+REF:  doing music integration and YEAH i'm like IT IT it WAS it was nice IT was really nice but i was really looking for my thing was what i *** ** STARTED REALIZING UM as in is like you make progress with kids but then like something may happen at home that you have no idea about AND  they come the next day and it's just like YO   WHAT'S going on ****** SOMETHING could HAVE HAPPENED UM AT  i'm allowed to i have THAT CONNECTION   with the HOME     the school the student THE PARENT AND IT'S LIKE that FULL CIRCLE SO I FEEL  like RIGHT NOW  i'm finally at THAT place where i'm ****** this IS THE  JOB that I   want like this is how i *** feel like **** i ***** CAN really make some TYPE of impact or change amongst these youth 
+HYP:  doing music integration and YEA  i'm like ** ** it IS  it was nice ** was really nice but i was really looking for my thing was what i SAT TO REALIZE IN        AM as in is like you make progress with kids but then like something may happen at home that you have no idea about WHEN they come the next day and it's just like THAT IT'S   going on SOMETH THEY      could A    HAPPEN   ON I'M i'm allowed to i have **** THATCHNEXION with the MOMENT'M the school the student *** ****** *** **** IS   that **** ****** ** * YOU'S like ***** THAT i'm finally at THE  place where i'm BEHIND this ** ISOT AF  that YOU want like this is how i CAN feel like THAT i CAN'M NOT really make some **** of impact or change amongst these youth 
+Eval:                             S             D  D     S               D                                                                   I   I  S       S         S                                                                                                                   S                                              S    S               I      S               S    S        S  S                         D    S                     S                               D   D      D   D    S         D    D      D  D S          D     S                   S                    I           D  S    S        S                           I             I      I     S                    D                                            
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_3347541_3368208)
+Scores: (#C #S #D #I) 32 11 2 4
+REF:  ** *** i don't ** IT'S IT'S i don't know IT'S IT'S SOMETHI   IT'S something about us like like you can hear somebody from the city AND be like OKAY YEAH THEY'RE from the city but like you hear somebody from ROCHESTER AND        you're like ***** WHERE they from 
+HYP:  AH AND i don't IS IS   IT   i don't know IT   IS   SOMETHING IS   something about us like like you can hear somebody from the city *** be like AGO  YE   THERE   from the city but like you hear somebody from ********* RODCHESTER you're like THERE WERE  they from 
+Eval: I  I           I  S    S                 S    S    S         S                                                                     D           S    S    S                                                     D         S                      I     S               
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_3413916_3427781)
+Scores: (#C #S #D #I) 37 4 2 0
+REF:  i DON'T KNOW  like i think to me everybody in rochester pretty much BE      speaking english or they're not from rochester so that's understandable that they have AN accent or like english IS not their first SPEAKING language cause i mean we have 
+HYP:  i ***** DUNNO like i think to me everybody in rochester pretty much THEY'RE speaking english or they're not from rochester so that's understandable that they have IT accent or like english ** not their first SPEAKIN  language cause i mean we have 
+Eval:   D     S                                                           S                                                                                              S                         D                  S                                      
+
+id: (roc_se0_ag1_m_01-roc_se0_ag1_m_01_1_3459295_3468601)
+Scores: (#C #S #D #I) 16 2 0 0
+REF:  but it's i think WITH rochester it's more so like because of what our city gets PORTRAYED as 
+HYP:  but it's i think WHAT rochester it's more so like because of what our city gets BETRAYED  as 
+Eval:                  S                                                              S            
+
+Speaker sentences  36:  roc_se0_ag1_m_02   #utts: 2
+id: (roc_se0_ag1_m_02-roc_se0_ag1_m_02_1_1404369_1412561)
+Scores: (#C #S #D #I) 29 6 1 1
+REF:  i need YOUR music ON right now BEFORE i can have my nice night ** TONIGHT you know WHAT i mean so it's cool like they're not just bumping down SOUTH music they do respect our SOUND  
+HYP:  i need GER  music OR right now IF     i can have my nice night TO NIGHT   you know **** i mean so it's cool like they're not just bumping down SOFT  music they do respect our SOUNDS 
+Eval:        S          S            S                               I  S                D                                                           S                               S      
+
+id: (roc_se0_ag1_m_02-roc_se0_ag1_m_02_1_164419_197782)
+Scores: (#C #S #D #I) 66 34 20 3
+REF:  well one friend that I   still have his name ME AND HIM      been friends ever since babies cause our MOMS  were friends UM     he was like the CHUBBY FAT K       fat DUDE then HE   STARTED PLAYING FOOTBALL AND  SLIMMED up IT    was A   DUDE NAMED he was a older DUDE LIKE PROBABLY LIKE    four years older than us and we all LIKE looked up to him CAUSE he was like the like the east ******* high school football player **** and LIKE HE USED TO TRAIN US   OUT IN   the FIELD and we USED TO  like play LIKE like T LIKE SHOOT  'EM up BUST 'EM    up LIKE BASICALLY like football **** FREEHAND football YEAH I   HAD SOME pretty cool FRIENDS ON COURT  
+HYP:  well one friend that I'S still have his name ** *** MA'AM'AM been friends ever since babies cause our MYLES were friends ALMOST he was like the ****** *** CHERBBY fat DOUD then HE'S YO'RE   PLAYIN  FOOT     BALL SLIMED  up THERE was THE DUET NAME  he was a older **** DEUD THAT     PROUDLY four years older than us and we all **** looked up to him OUT   he was like the like the east HIGHEST high school football player FORE and **** ** **** ** ***** WE'D AYE IT'S the FE    and we **** ALL like play **** like * BIG  TREHOE HIM up **** BUSTOM up **** ********* like football FREE HAND     football **** AYE AYE IT'S pretty cool ******* ** FRIEND 
+Eval:                      S                       D  D   S                                                 S                  S                      D      D   S           S         S    S       S       S        S    S          S         S   S    S                    D    S    S        S                                           D                     S                                   I                                   I        D    D  D    D  D     S    S   S        S            D    S             D         D S    S      S      D    S         D    D                       I    S                 D    S   S   S                D       D  S      
+
+Speaker sentences  37:  roc_se0_ag1_m_03   #utts: 4
+id: (roc_se0_ag1_m_03-roc_se0_ag1_m_03_1_1325836_1333639)
+Scores: (#C #S #D #I) 13 2 2 0
+REF:  it's beautiful IT WAS beautiful how things come together like that you know so now YEAH IT'S   
+HYP:  it's beautiful ** IS  beautiful how things come together like that you know so now **** YEAR'S 
+Eval:                D  S                                                                D    S      
+
+id: (roc_se0_ag1_m_03-roc_se0_ag1_m_03_1_2731369_2750996)
+Scores: (#C #S #D #I) 33 5 1 5
+REF:  i mean ** GEECHEE is like basically like ** UM    like a southern accent UM and ** which a lot of us in rochester already sound **** ** quote UNQUOTE GEECHEE because a lot of us was raised by folks that LIVED down south 
+HYP:  i mean GE CHE     is like basically like OH AMONG like a southern accent OH and IN which a lot of us in rochester already sound QUOT ON quote ******* GAIE    because a lot of us was raised by folks that LIVE  down south 
+Eval:        I  S                              I  S                            S      I                                               I    I        D       S                                                    S                
+
+id: (roc_se0_ag1_m_03-roc_se0_ag1_m_03_1_2810906_2818522)
+Scores: (#C #S #D #I) 17 5 1 0
+REF:  or OR way that we say things UM and that's THE THAT'S to me that's what that's what S GEECHEE is to me 
+HYP:  or ER way that we say things O  and that's DE  DAT'S  to me that's what that's what * GEECHE  is to me 
+Eval:    S                         S             S   S                                    D S                
+
+id: (roc_se0_ag1_m_03-roc_se0_ag1_m_03_1_2977116_2990720)
+Scores: (#C #S #D #I) 29 5 0 0
+REF:  IT'S it'll work out IT'LL work out but YEAH that's what people i guess that's what people think about UH those that speak like THEY'RE from down south but they was raised up here 
+HYP:  IS   it'll work out IT'D  work out but YEAR that's what people i guess that's what people think about A  those that speak like THERE   from down south but they was raised up here 
+Eval: S                   S                  S                                                              S                        S                                                   
+
+Speaker sentences  38:  roc_se0_ag2_f_02   #utts: 4
+id: (roc_se0_ag2_f_02-roc_se0_ag2_f_02_1_1720121_1726612)
+Scores: (#C #S #D #I) 29 3 2 0
+REF:  oh YEAH that's what i told her I said like we were looking at the rental house she's like oh my GOD I       SAID don't worry i'm buying a house you won't have to 
+HYP:  oh YES  that's what i told her * said like we were looking at the rental house she's like oh my *** GODDESS THAT don't worry i'm buying a house you won't have to 
+Eval:    S                           D                                                                D   S       S                                                     
+
+id: (roc_se0_ag2_f_02-roc_se0_ag2_f_02_1_2165127_2184916)
+Scores: (#C #S #D #I) 50 10 1 1
+REF:  i am not and i feel like if you are an involved parent with your KID'S education they're going to be successful wherever they are IT'S just the element AND the ENVIRONMENT that i want changed like IN  they're getting kicked out of their building for her SIXTH GRADE year who knows like if **** THEY'RE at franklin SHE AIN'T going THERE 
+HYP:  i am not and i feel like if you are an involved parent with your KITS  education they're going to be successful wherever they are IS   just the element IN  the EMVIRONMENT that i want changed like INN they're getting kicked out of their building for her SIX   GREAT year who knows like if THEY ARE     at franklin *** SHEIN going NEAR  
+Eval:                                                                  S                                                                S                     S       S                                    S                                                        S     S                            I    S                   D   S           S     
+
+id: (roc_se0_ag2_f_02-roc_se0_ag2_f_02_1_2640085_2645206)
+Scores: (#C #S #D #I) 18 1 0 0
+REF:  it really is like i lived in greece for three years i'll never forget because YOU'RE going to laugh 
+HYP:  it really is like i lived in greece for three years i'll never forget because YOU    going to laugh 
+Eval:                                                                               S                     
+
+id: (roc_se0_ag2_f_02-roc_se0_ag2_f_02_1_2901032_2936926)
+Scores: (#C #S #D #I) 95 6 6 0
+REF:  she was born in a little town in GEORGIA and everybody there IF WE if we go because UH we have family members that go every year we're related to every DAMN BODY  in this little baby town like it's a very small town and they came up there F with UM my mother's oldest sister she passed her husband came up here to SELL drugs so he moved the whole my grandmother like my aunt said i'm not going without my family SO he moved my grandmother and all her KIDS  up here in order to get his wife to come up TH here with him 
+HYP:  she was born in a little town in JORGIA  and everybody there ** ** if we go because ** we have family members that go every year we're related to every **** DAMON in this little baby town like it's a very small town and they came up there * with OM my mother's oldest sister she passed her husband came up here to TELL drugs so he moved the whole my grandmother like my aunt said i'm not going without my family IF he moved my grandmother and all her CHILD up here in order to get his wife to come up ** here with him 
+Eval:                                  S                           D  D                   D                                                                   D    S                                                                                 D      S                                                                   S                                                                                                 S                                      S                                                 D                
+
+Speaker sentences  39:  roc_se0_ag2_f_03   #utts: 9
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_1240617_1251125)
+Scores: (#C #S #D #I) 29 7 2 0
+REF:  i've i've UH looked at U   of R   and R I   T   UM what i find is that most of them want you to have college experience which is frustrating cause i'm not looking for teaching JO  ROLES 
+HYP:  i've i've ** looked at YOU of OUR and * OUR ATI AM what i find is that most of them want you to have college experience which is frustrating cause i'm not looking for teaching JET ROLLS 
+Eval:           D            S      S       D S   S   S                                                                                                                               S   S     
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_1750135_1777007)
+Scores: (#C #S #D #I) 47 5 8 0
+REF:  and even within our communities even gay black men VERSUS UM     G   UM gay queer black women there's still some YOU KNOW differences there's still UM some needs to some NEED  to have separate spaces or spaces that satisfy both you know and so UM again i think GETS it and he's trying to P create those spaces YOU KNOW 
+HYP:  and even within our communities even gay black men ****** VERSES GAG AM gay queer black women there's still some *** **** differences there's still AM some needs to some NEEDS to have separate spaces or spaces that satisfy both you know and so ** again i think **** it and he's trying to * create those spaces *** **** 
+Eval:                                                    D      S      S   S                                           D   D                              S                     S                                                                         D                D                          D                     D   D    
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_211669_223270)
+Scores: (#C #S #D #I) 34 2 0 0
+REF:  i'd love for BUSINESSES to be in the city and we deserve good restaurants and you know they all move out of our NEIGHBORHOODS  and now that i see what's happening i'm like wait a minute 
+HYP:  i'd love for BUSINESSS  to be in the city and we deserve good restaurants and you know they all move out of our NEIGHBOURHOODS and now that i see what's happening i'm like wait a minute 
+Eval:              S                                                                                                  S                                                                         
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_2266432_2313606)
+Scores: (#C #S #D #I) 94 10 8 3
+REF:  YEP  and we all YOU know we're all guilty of some type of collusion or you know whatever it takes to survive we've all had to swallow our pride at some point and so i'm not JUDGMENTAL  at all UM and i think we AND AND and i don't know where you are in your journey but A lot of us carry guilt UM BECAUSE IN one ******* SENSE it's your responsibility to stand up in another sense you need *** **** to survive and THESE folks aren't you KNOW   into explanation YOU KNOW you just need your PAYCHECK and so what are you willing to PUT  up WITH in order to pay your bills 
+HYP:  YEAP and we all *** know we're all guilty of some type of collusion or you know whatever it takes to survive we've all had to swallow our pride at some point and so i'm not JUDGEMENTAL at all ON and i think we *** *** and i don't know where you are in your journey but * lot of us carry guilt ** ******* OH one BECAUSE IT'S  it's your responsibility to stand up in another sense you need YOU GETS to survive and THIS  folks aren't you REALLY into explanation *** OH   you just need your PLAYCACK and so what are you willing to TURN up **** in order to pay your bills 
+Eval: S               D                                                                                                                                                            S                  S                 D   D                                                      D                       D  D       S      I       S                                                                    I   I                   S                      S                       D   S                       S                                       S       D                               
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_2341457_2355436)
+Scores: (#C #S #D #I) 18 3 1 0
+REF:  UM but i have had a handful OF days at my company THAT WERE  you know my blackness was you know bleeding 
+HYP:  OH but i have had a handful ** days at my company THE  WHERE you know my blackness was you know bleeding 
+Eval: S                           D                     S    S                                                 
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_2571104_2580940)
+Scores: (#C #S #D #I) 14 6 1 0
+REF:  UM     ACTIVISM  you know i see 'S group i see UM the group b l a K c K  UM black 
+HYP:  AUTUMN ACTIVEISM you know i see A  group i see ON the group b l a * c AY ON black 
+Eval: S      S                        S              S                  D   S  S        
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_2989460_3013623)
+Scores: (#C #S #D #I) 64 7 3 1
+REF:  UM my wife points it out she says O W as soon as i get on the PHONE WITH my family or she said we can be driving to their house and MY my language changes and without even thinking about it and she's like it happens automatically CAUSE i don't **** pay attention to it UM but the way i speak changes when i'm around UM  my family or PREDOMINANTLY around people of color 
+HYP:  OH my wife points it out she says * * as soon as i get on the FUN   AT   my family or she said we can be driving to their house and ** my language changes and without even thinking about it and she's like it happens automatically SAYS  i don't EVEN pay attention to it AM but the way i speak changes when i'm around AND my family or PREDOMINALLY  around people of color 
+Eval: S                                 D D                         S     S                                                               D                                                                                                 S             I                        S                                              S                S                                    
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_379589_427006)
+Scores: (#C #S #D #I) 117 19 8 11
+REF:  i don't think so i think they are just trying to make more room and space for their students and trying to make it attractive to the folks that they are ** UM     reaching out to and so this whole push for safer spaces and ******* building you know this whole perception that you're in THE CITY the U     OF   R        but it might not be SAFE  and so they're taking up real ******* ESTATE that is **** *** EXCLUSIVE to the folks that they're CATERING  to ** and that's how it **** feels to me but that's without any data i don't know what attempts ********** U   OF R  UM HAS   AT    UH my parents *** live a couple of BLOCKS FROM U  OF  R        i don't think ******* THEY'VE reached out at all I DON'T THINK but *** who knows UM if there is something in the works i'm not aware of it 
+HYP:  i don't think so i think they are just trying to make more room and space for their students and trying to make it attractive to the folks that they are AM ALMOST reaching out to and so this whole push for safer spaces and THEY'RE building you know this whole perception that you're in *** **** the ENEMY THAT YOUOVAIR but it might not be SAFER and so they're taking up real ESTATES AND    that is IT'S ALL ELUSIVE   to the folks that they're CHETERING to ME and that's how it WILL feels to me but that's without any data i don't know what attempts YOUOEUVARD I'M AT AH I  DON'T THINK IT my parents YOU live a couple of ****** **** IT AND YOUOEVAR i don't think THEY'LL HAVE    reached out at all * ***** ***** but I'S who knows ** if there is something in the works i'm not aware of it 
+Eval:                                                                                                                                                          I  S                                                                  I                                                              D   D        S     S    S                            S                                   I       S              I    I   S                                   S            I                    I                                                                       I          S   S  S  S  S     S     S             I                    D      D    S  S   S                      I       S                          D D     D         I             D                                                         
+
+id: (roc_se0_ag2_f_03-roc_se0_ag2_f_03_1_39270_63728)
+Scores: (#C #S #D #I) 58 10 9 5
+REF:  i would describe it as inner city I MEAN i grew up UM i'm thirty nine now but when i grew up it was the G BOYS   and the black mob and you KNOW it's a YOU know between JEN   cottage street was pretty A lot * OF   HOMEOWNERS but GENESEE and jefferson UM a lot ** of UH just UM  activity * *** ** uh AROUND but also a very pretty AREA UM   a lot of old homes A lot of 
+HYP:  i would describe it as inner city * **** i grew up ** i'm thirty nine now but when i grew up it was the * GEBOYS and the black mob and you **** it's a *** know between GENIT cottage street was pretty * lot A HOME OWNERS     but GENESY  and jefferson ON a lot OF of A  just I'M activity A LOT OF uh ****** but also a very pretty ARE  JUST a lot of old homes * lot of 
+Eval:                                   D D              D                                                    D S                                D           D                S                               D     I S    S              S                     S        I     S       S            I I   I     D                             S    S                       D        
+
+Speaker sentences  40:  roc_se0_ag2_f_04   #utts: 2
+id: (roc_se0_ag2_f_04-roc_se0_ag2_f_04_1_193297_198300)
+Scores: (#C #S #D #I) 15 1 2 0
+REF:  well you know the class OF of of of nineteen ninety was probably the best last GRADUAT NO       
+HYP:  well you know the class ** of of of nineteen ninety was probably the best last ******* GRADUATE 
+Eval:                         D                                                      D       S        
+
+id: (roc_se0_ag2_f_04-roc_se0_ag2_f_04_1_469678_515980)
+Scores: (#C #S #D #I) 120 24 32 5
+REF:  i TEASE  him that he should have UH when i first met him i thought his family was west indian cause you know i wasn't SOPHISTICATED enough to be able to tell * DIALECTS at that time and I ONLY  KNEW florida AND georgia and that's a very different sounding UM  tone so when i first heard his mother and his HER   his uncle speak and she would say THINGS AND I WAS  LIKE  is his mother WEST INDIAN and then i found OUT THEY'RE from south ***** CAROLINA and then JUST LIKE daughters of the dust AND UM MAMA   day AND READING    about the UGH THOSE SEA COAST ISLANDS and just really * being caught up in THE beauty of the **** language so I TEASE    him that HE PROBABLY should have been educated as an E S L     student *** because in many ways HIS HIS PARENTS have this heavy HI HIS MOTHER and his SIBLINGS I MEAN HER    SIBLINGS have this heavy speech pattern THAT i hear him say THA I'M LIKE YEAH you know i said really 
+HYP:  i TEASED him that he should have ** when i first met him i thought his family was west indian cause you know i wasn't SOPHICATED    enough to be able to tell A DIALECT  at that time and * ALLEN NEW  florida IN  georgia and that's a very different sounding OLD tone so when i first heard his mother and his HEARD his uncle speak and she would say ****** *** * I'LL SPEAK is his mother **** ****** and then i found *** IT      from south CAROL SPEAK    and then **** HIS  daughters of the dust *** IN MA'MMA day *** INMRIADING about the *** ***** *** ***** ALLECTA and just really A being caught up in A   beauty of the SAME language so * I'LLEXEX him that ** HE'DLY   should have been educated as an * * ESSAL student I'M because in many ways *** *** ******* have this heavy ** *** ****** and his ******** * **** MOTHER SYBLINGS have this heavy speech pattern BUT  i hear him say *** *** **** **** you know i said really 
+Eval:   S                              D                                                                                    S                                       I S                         D S     S            S                                                S                                                 S                                       D      D   D S    S                   D    D                       D   S                  I     S                 D    S                          D   S  S          D   S                    D   D     D   D     S                       I                    S                 I                D S                 D  S                                        D D S             I                        D   D   D                       D  D   D              D        D D    S      S                                       S                   D   D   D    D                           
+
+Speaker sentences  41:  roc_se0_ag3_f_01   #utts: 2
+id: (roc_se0_ag3_f_01-roc_se0_ag3_f_01_1_1341401_1376200)
+Scores: (#C #S #D #I) 72 12 7 4
+REF:  UM that's basically IT  once they UM  both got jobs then you know they were out on their own and then they had an apartment ON   then they bought an ********* ** **** APA  HAD    an apartment on then they bought this house so they actually bought the house for seventeen thousand dollars six bedroom house three bathrooms *** seventeen thousand YEAR  you know back then SO that was CRAZY YOU   SO  they PAYED their house off real quick because she was at KODAK  and he WAS IN CONSTRUCTION SO IT was basically a STEAL 
+HYP:  OH that's basically YET once they I'M both got jobs then you know they were out on their own and then they had an apartment ONUM then they bought an APARTMENT ON THEN THEY BOUGHT an apartment on then they bought this house so they actually bought the house for seventeen thousand dollars six bedroom house three bathrooms FOR seventeen thousand YEARS you know back then ** that was ***** BATZY AND they PAID  their house off real quick because she was at KHODAK and he *** ** ************ ** ** was basically a STEEL 
+Eval: S                   S             S                                                                                         S                        I         I  I    S    S                                                                                                                                                     I                      S                        D           D     S     S        S                                                   S             D   D  D            D  D                  S     
+
+id: (roc_se0_ag3_f_01-roc_se0_ag3_f_01_1_74615_80900)
+Scores: (#C #S #D #I) 13 3 2 0
+REF:  YEAH so now my neighbors are great i actually have UM kids from R I T      next door 
+HYP:  YES  so now my neighbors are great i actually have OM kids from * * OURETE next door 
+Eval: S                                                  S            D D S                
+
+Speaker sentences  42:  roc_se0_ag3_f_02   #utts: 11
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_1053864_1089199)
+Scores: (#C #S #D #I) 61 9 5 1
+REF:  i stayed with my grandmother until i was thirteen so when we first got up when I F    when she first got here and to take me to school it was NUMBER   school ON AVENUE    it's on AVENUE now but the R original was on ******* AVENUE so i was go to F fifth grade and they said i COULDN'T UH         CAUSE i was coming from the south and she said SHE   going to fifth GRADE 
+HYP:  i stayed with my grandmother until i was thirteen so when we first got up when * I'VE when she first got here and to take me to school it was NUMMIN'S school ** UNDERVANU it's on NEVENU now but the * original was on VAVENUE IT     so i was go to * fifth grade and they said i ******** COULDN'T'T I'T   i was coming from the south and she said SHE'S going to fifth GREAT 
+Eval:                                                                                D S                                                            S               D  S                 S                  D                 I       S                     D                             D        S          S                                              S                    S     
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_1615257_1622185)
+Scores: (#C #S #D #I) 17 1 1 0
+REF:  OR WE'D   stay at my house and that's the way we grew up so we grew up like sisters 
+HYP:  ** ALWAYS stay at my house and that's the way we grew up so we grew up like sisters 
+Eval: D  S                                                                                
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_1699087_1707565)
+Scores: (#C #S #D #I) 23 1 1 0
+REF:  IF if it was that high and i would take that take them shoes to school with me and change 'EM on my way there 
+HYP:  ** if it was that high and i would take that take them shoes to school with me and change EM  on my way there 
+Eval: D                                                                                         S                   
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_2221266_2232596)
+Scores: (#C #S #D #I) 25 5 1 1
+REF:  with all the CRINOLINES  ON    THERE i remember that skirt i WOULD wear it every friday and it had like a ***** CAROUSEL around it i couldn't dance but i could TWIRL  
+HYP:  with all the CRINNALIONS UNDER IT    i remember that skirt i ***** wear it every friday and it had like a CAROL CELL     around it i couldn't dance but i could TWIRLE 
+Eval:              S           S     S                             D                                            I     S                                               S      
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_2471400_2503647)
+Scores: (#C #S #D #I) 58 3 1 1
+REF:  restaurant somewhere else where did he go i don't know where he went but eventually he was up on central avenue up with TH all the hot dogs but he was on the corner OF north street and central avenue and from there he moved cross town on CLARISSA  street and from there he moved **** here WHERE did he he was somewhere 
+HYP:  restaurant somewhere else where did he go i don't know where he went but eventually he was up on central avenue up with ** all the hot dogs but he was on the corner IN north street and central avenue and from there he moved cross town on CLARISA'S street and from there he moved DOWN here WHEN  did he he was somewhere 
+Eval:                                                                                                                         D                                            S                                                                        S                                        I         S                             
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_2528873_2546883)
+Scores: (#C #S #D #I) 36 4 2 0
+REF:  and she never recovered she was in UH THE EPISCOPAL  home she never recovered and that affected him and his health KIND OF     went down too so i think somebody moved him out to ARIZONA  or something and that's where he died 
+HYP:  and she never recovered she was in ** A   DEPISCOPAL home she never recovered and that affected him and his health **** CANNOT went down too so i think somebody moved him out to ARIZONNA or something and that's where he died 
+Eval:                                    D  S   S                                                                        D    S                                                         S                                              
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_2579639_2587011)
+Scores: (#C #S #D #I) 15 1 0 0
+REF:  i wish i could remember where he was before he moved to thurston but I  that's 
+HYP:  i wish i could remember where he was before he moved to thurston but AT that's 
+Eval:                                                                      S         
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_3084760_3095984)
+Scores: (#C #S #D #I) 28 2 0 0
+REF:  before you get to the concession stand and then you COULD go in and find a seat and i LIKED cause i could sit upstairs or i could sit downstairs 
+HYP:  before you get to the concession stand and then you KIN   go in and find a seat and i LIKE  cause i could sit upstairs or i could sit downstairs 
+Eval:                                                     S                                 S                                                          
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_3098829_3122479)
+Scores: (#C #S #D #I) 39 6 6 0
+REF:  and that was that was really nice my grandmother and i came up here YEAH they had the R K O      palace THE R K  O      temple the R K O      the other one was on east avenue oh it was so many movies UM i lost my train of thought 
+HYP:  and that was that was really nice my grandmother and i came up here YET  they had the * * ARCAEL palace *** * DE ARCAIL temple the * * ARCAEL the other one was on east avenue oh it was so many movies OH i lost my train of thought 
+Eval:                                                                     S                 D D S             D   D S  S                 D D S                                                                S                             
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_3135582_3162790)
+Scores: (#C #S #D #I) 51 6 4 0
+REF:  and at the MOVIE  when you went then you got a choice of YOU you always had two full length MOVIES  and you had i don't know how many cartoons then you had the COMING attractions you had UH what they CALL   SERIALS which was chapters AND and you ALWAYS had a western you got all OF that for your money 
+HYP:  and at the MOVING when you went then you got a choice of *** you always had two full length MOVINGS and you had i don't know how many cartoons then you had the COMMON attractions you had A  what they CALLED CEREALS which was chapters *** and you ****** had a western you got all ** that for your money 
+Eval:            S                                             D                                  S                                                                   S                          S            S      S                          D           D                                D                      
+
+id: (roc_se0_ag3_f_02-roc_se0_ag3_f_02_1_708252_721458)
+Scores: (#C #S #D #I) 32 5 1 0
+REF:  i think cause in the old days you didn't I S   like i SAID i don't know if it was CONSENSUAL  they was going behind the BEND somewhere or if he was forcing HISSELF and she was scared 
+HYP:  i think cause in the old days you didn't * I'S like i SAY  i don't know if it was CONSCENTUAL they was going behind the BEN  somewhere or if he was forcing HIMSELF and she was scared 
+Eval:                                          D S          S                           S                                     S                                   S                          
+
+

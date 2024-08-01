@@ -1,0 +1,900 @@
+DDM:0.42857142857142855	WER:1.1
+sentence 1
+REF:    n that is what i  was telling you about in the houses that way up
+HYP: they said ** **** i will    tell you about in   a  while **** *** **
+        S    S  D    D      S       S                S      S    D   D  D
+
+DDM:0.42857142857142855	WER:0.0
+sentence 1
+REF: but she been dead right many years
+HYP: but she been dead right many years
+                                       
+
+DDM:0.42857142857142855	WER:0.2857142857142857
+sentence 1
+REF:   join in with general mark clark i think that is his name general mark clark
+HYP: johnny ** with    john mark clark i think that is his name    john mark clark
+          S  D            S                                           S           
+
+DDM:0.4117647058823529	WER:0.5
+sentence 1
+REF: it runs ought      we sposta be something like where it is  calls that 4 miles out *** *** your district
+HYP: it runs    we suppose     it is something like where it is called  say 4 miles out you are this      way
+                 S       S      S  S                                 S    S               I   I    S        S
+
+DDM:0.4	WER:0.4
+sentence 1
+REF: mmhm she had cooked the meat though string  bean and corn
+HYP: **** she had cooked   a meat    dog string beans and corn
+        D                  S           S            S         
+
+DDM:0.3684210526315789	WER:0.38095238095238093
+sentence 1
+REF: and she flew up there and i know she if she **** *** wont 80 then it wont far from it
+HYP: and she flew up there and i know she if she will not  ate it then it will not puff up
+                                                    I   I    S  S            S   S    S  S
+
+DDM:0.34615384615384615	WER:0.6551724137931034
+sentence 1
+REF: it is a little ****    on the tight  side now cause the ********* government took their president and all them crowd done took all this money away from  em
+HYP: it is a little only tight but   not quite  as  good the president          0   do   not       cry   i  do  not  want   to take all this money away from him
+                       I     S   S     S     S   S     S             I          S    S     S         S   S   S    S     S    S    S                            S
+
+DDM:0.3333333333333333	WER:0.48
+sentence 1
+REF: all of   em all of   em my grandmama she dead my granddaddy ** gone my  mama she ** still here she ** *** still living
+HYP: all of them all of them my grandmama she  did my granddaddy go  and my momma she is   the hero she is the  hero living
+               S           S                     S                I    S        S      I     S    S      I   I     S       
+
+DDM:0.3333333333333333	WER:0.3055555555555556
+sentence 1
+REF: this and all of that this that   and the other i am like man i am down in my man  i    am   a kill me in  a instant so    i might you aint as bad as you think you are
+HYP: **** and all of that just that night *** ***** i am like man i am down in my man is mouth but kill me in an instant so mike ***** you aint as bad as you think you are
+        D                    S          S   D     D                                    S     S   S             S               S     D                                     
+
+DDM:0.32142857142857145	WER:0.68
+sentence 1
+REF: yeah well actually he aint even working right now his  knee is getting bad right he getting ready  to go to the hospital  to get his  knee   s 0
+HYP: yeah  but    after he aint even working    on *** his knees ** getting  in   bed he    will   get out of ** the hospital and get his knees out *
+             S        S                          S   D         S  D           S     S          S     S   S  S  D                S             S   S D
+
+DDM:0.32	WER:0.2857142857142857
+sentence 1
+REF: and then after the service we went on ** into sunday school and around **** **** 1030 maybe something ***  11 we left and went to saint luke
+HYP: and then after the service we went on in  the sunday school and around 10th 30th   or maybe something the day we left and went to saint duke
+                                            I    S                             I    I    S                   I   S                              S
+
+DDM:0.3137254901960784	WER:0.5853658536585366
+sentence 1
+REF: yeah it was more like a sacrificial type thing they  was not really radio oriented radio stations were not playing go go like that it was one band that got on though who was it eu who was that band eu and that was aight used to crank too though remember working the ****
+HYP: **** ** *** **** **** * *********** **** ***** they were not really radio oriented radio stations were not playing go go like that it was  my band that got on  there *** was it ** who  is that baby  i *** **** was     i used to crank  to    the   number working the ball
+        D  D   D    D    D D           D    D     D         S                                                                                    S                       S   D         D       S         S  S   D    D         S                 S      S        S                I
+
+DDM:0.30612244897959184	WER:0.25
+sentence 1
+REF: either greenville somewhere around the surroundings of princeville and tarboro that we would stay with   cause parts of tarboro did not get flooded downtown really did but it was not as bad as princeville you know that was not but for the    grace of  god that he just did not wipe everything out
+HYP:   even greenville somewhere around the surroundings of princeville and   tarpa that we would stay with because parts of   tarpa did not get flooded downtown really did but it was not as bad as princeville *** **** that was not *** *** the greatest of guys they ** just did not wipe everything out
+          S                                                                       S                               S                S                                                                                D    D                D   D            S       S    S  D                                 
+
+DDM:0.2857142857142857	WER:0.2
+sentence 1
+REF: maybe the clothes on their back some of **** might had on bedroom shoes and everything or some of   em i do not think some of   em had on shoes
+HYP: maybe the clothes on  that  bag some of them     i had on bedroom shoes and everything or some of them i do not think some of them had on shoes
+                              S    S            I     S                                                   S                           S             
+
+DDM:0.2857142857142857	WER:0.23076923076923078
+sentence 1
+REF: and she   want to go s to the christmas parade to see the horses
+HYP: and she wanted to go * to the christmas  array to see the horses
+                  S       D                       S                  
+
+DDM:0.28125	WER:0.2777777777777778
+sentence 1
+REF: ****  in 2nd grade teacher gave me * nickname snake   cause well she said i was   sneaky you know i would be sitting in one place and she ***** turn around *** i am sitting      some place else
+HYP: well the 2nd grade teacher gave me a nickname snake because **** she said i was sneaking you know i would be sitting in one place and she would turn around and i am sitting someplace ***** else
+        I   S                           I                      S    D                       S                                                      I               I                      S     D     
+
+DDM:0.28	WER:0.44
+sentence 1
+REF: mmhm when i     g when you know but but     i there for a little before i was 20 *** see they pull   me before i got 20
+HYP: **** when i could **** you know but   i would  help  it a little before i was 20 say you   do pull them before i got 20
+        D            S    D                S     S     S   S                            I   S    S         S                
+
+DDM:0.2631578947368421	WER:0.9090909090909091
+sentence 1
+REF: well i    s s stayed single for about from from i stayed single i reckon about 67 years
+HYP: well i stay * ****** single *** about **** **** i   stay single * ****** about 16 years
+               S D      D          D          D    D        S        D      D        S      
+
+DDM:0.25	WER:0.5
+sentence 1
+REF: what we look for you know like okay * my grandma is like i said well she said well     i   put it out i was like
+HYP: what we look for you know like okay i am   going to like i said well she said what putty house ** *** * *** like
+                                         I  S       S  S                              S     S     S  D   D D   D     
+
+DDM:0.25	WER:0.043478260869565216
+sentence 1
+REF: but it was much distant than they are now and but when we did we had good time but it was basically on sundays
+HYP: but it was much distant than they are now *** but when we did we had good time but it was basically on sundays
+                                                 D                                                                 
+
+DDM:0.25	WER:1.4
+sentence 1
+REF: for about 6 months like 6 months what flavor would you like
+HYP: *** ***** * ****** **** * ****** what flavor would you like
+       D     D D      D    D D      D                           
+
+DDM:0.20689655172413793	WER:0.3
+sentence 1
+REF: like i am just going to chill just out there ***** *** have nothing planned because i got the house to myself because my mother *** now they gone to greensboro i am like
+HYP: **** i am just going to chill just out there leave him have nothing planned because i got the house on myself because my mother and   i they gone to greensboro * ** ****
+        D                                             I   I                                               S                            I   S                         D  D    D
+
+DDM:0.2	WER:0.09090909090909091
+sentence 1
+REF: this was like a * wednesday night when it started raining
+HYP: this was like a a wednesday night when it started raining
+                     I                                        
+
+DDM:0.2	WER:0.11627906976744186
+sentence 1
+REF: that was a that was a real sad *** ordeal can you imagine seeing one of the citizens in your ward on their knees face down in the earth under the condition that this soil was in after the flood boohooing and crying for their losses
+HYP: that was a **** *** * real sad all   deal can you imagine seeing one of the citizens in your ward on their knees face down in the earth under the condition that this soil was in after the flood boohooing and crying for their losses
+                   D   D D            I      S                                                                                                                                                                                              
+
+DDM:0.2	WER:0.18181818181818182
+sentence 1
+REF: if if it was that high and i would take that take them shoes to school with me and change   em on my way there
+HYP: if ** it was that high and i would take **** **** them shoes to school with me and change them on my way there
+         D                                      D    D                                            S                
+
+DDM:0.1875	WER:0.16129032258064516
+sentence 1
+REF: so she said that my    aunt is husband friend   help her hold her and swim with her to the boat and    it was a lot of people on top of houses you know
+HYP: so she said **** my husband is ******* friend helped her hold her and swim with her to the boat and there was a lot of people on top of houses you know
+                    D          S          D             S                                                    S                                              
+
+DDM:0.18181818181818182	WER:0.14285714285714285
+sentence 1
+REF: what what more do you need they are they are literally building buildings on top of overpasses in dc to get people in here
+HYP: what **** more do you need **** *** they are literally building buildings on top of overpasses in dc to get people in here
+             D                     D   D                                                                                       
+
+DDM:0.18181818181818182	WER:0.0
+sentence 1
+REF: you know how to become a better parent parent control parenting
+HYP: you know how to become a better parent parent control parenting
+                                                                    
+
+DDM:0.17857142857142858	WER:0.3333333333333333
+sentence 1
+REF: for the boys and girls club and you you have to like if they have problems you should be there for them to talk to them you know
+HYP: for the boys and girls club and *** *** **** ** **** if they have problems you should be there for them to talk to them *** ****
+                                       D   D    D  D    D                                                                      D    D
+
+DDM:0.17647058823529413	WER:0.058823529411764705
+sentence 1
+REF: and it was really really getting ready to fall in and they had a traveler travel trailer
+HYP: and it was really really getting ready to fall in and they had a  trailer travel trailer
+                                                                             S               
+
+DDM:0.1702127659574468	WER:0.30952380952380953
+sentence 1
+REF: my mom w you know sh when she was h had the store and she would used  to   close the store about  11 oclock and she would promise us  now when we   are closed up we are just going to take a ride and look at the town
+HYP: my mom * you know ** when she *** * had the store and she would  use the clothes *** store about 110  clock and she would promise us that when we close ****** up we are just going to take a ride and look at the town
+            D           D            D D                                S   S       S   D               S      S                             S             S      D                                                         
+
+DDM:0.16666666666666666	WER:0.26666666666666666
+sentence 1
+REF: and you know we we found kids during that time years ago that was in really bad shape
+HYP: and *** **** we ** found kids  doing that time years ago that was in really bad shape
+           D    D     D                 S                                                 
+
+DDM:0.16326530612244897	WER:0.14814814814814814
+sentence 1
+REF: and she  say i said well i am i am just concentrating i said  but i am *** alright she said have you decided what you *** going to sing i  say i got 2 or 3 things that i would like to do but i do not know which one i am going to do
+HYP: and she said i said well i am * ** just concentrating i said well i am all   right she said have you decided what you are going to sing i said i got 2 or 3 things that i would like to do but i do not know which one i am going to do
+                S                  D  D                              S        I       S                                      I                    S                                                                                         
+
+DDM:0.16049382716049382	WER:0.22972972972972974
+sentence 1
+REF: when i was i would say when i was 19 years old that is my 1st interaction with white people and my 1st initial reaction was white people really act how they act on tv like i thought that was crazy   cause they really talk like that i i never experienced that before so it was   a          it was   not not necessarily culture shock but it was just like wow this is crazy   cause i have been around black people my whole life
+HYP: when i was * ***** *** **** * *** 19 years old that is my 1st    inaction with white people and my 1st initial reaction was white people really act how they act on tv like i thought that was crazy because they really talk like that i * never experienced that before so it was not necessarily   a cause  of *********** ******* shock but it was just like wow this is crazy because i have been around black people my whole life
+                D     D   D    D D   D                                       S                                                                                                                                  S                              D                                           S           S   S     S   S           D       D                                                    S                                              
+
+DDM:0.15384615384615385	WER:0.45
+sentence 1
+REF: he deceased    now but his wife is still living and   tell you the truth i think that was the 1st black doctor that i ever known
+HYP: he deceased number *** his wife is still living and tejuva *** *** ***** i think **** was the 1st black    dog **** i ever known
+                      S   D                                   S   D   D     D            D                        S    D             
+
+DDM:0.15	WER:0.14285714285714285
+sentence 1
+REF: what is the problem she was like when it snow you all   shut everything down she was like it is not that serious i said yes it is for us we are not used to   no snow we   shut every she said
+HYP: what is the problem she was like when is  the you all should everything  now she was like it is not that serious i said yes it is for us we are not used to know snow we should every she said
+                                            S    S              S               S                                                                                   S              S               
+
+DDM:0.14634146341463414	WER:0.1282051282051282
+sentence 1
+REF: i can remember   cause my father is v has a hot head hot temper very father is a very mean man but there was certain things that would happen that he would be totally be calm my mother was good at wrecking cars
+HYP: i can remember because my father is * *** * hot head hot temper very father is a very mean man but there was certain things that would happen that he would ** totally be calm my mother was good at wrecking cars
+                          S              D   D D                                                                                                                  D                                                    
+
+DDM:0.14285714285714285	WER:0.05714285714285714
+sentence 1
+REF: and then the water   come in washed it out and a lot of people do not know which way to go to get the stuff back see a lot of them people they got these got
+HYP: and then the water coming ** washed it out and a lot of people do not know which way to go to get the stuff back see a lot of them people they got these got
+                             S  D                                                                                                                                
+
+DDM:0.14285714285714285	WER:0.07407407407407407
+sentence 1
+REF: and when he cut it just in time it wrapped around that car the car is wheel and we were standing on it on the line on the sidewalk
+HYP: and when he cut it just in time it wrapped around that car *** *** is wheel and we were standing on it on the line on the sidewalk
+                                                                  D   D                                                                
+
+DDM:0.13636363636363635	WER:0.19047619047619047
+sentence 1
+REF: it is just  no something that just really like i mean we always we got snow but it is not like a lot like
+HYP: it is just not something that just really like i mean we ****** ** got snow but it is not like a lot ****
+                  S                                                D  D                                      D
+
+DDM:0.13636363636363635	WER:0.8
+sentence 1
+REF: or or way that we say things and that is the that is to me that is what  that is what s geechee is to me
+HYP: or ** way that we say things *** **** ** *** **** ** to me that is what gichi ** **** * ******* is to me
+         D                          D    D  D   D    D  D                        S  D    D D       D         
+
+DDM:0.13157894736842105	WER:0.13157894736842105
+sentence 1
+REF: i think   cause in the old days you did not i s like i said i do not know if it was consensual they was going behind the bend somewhere or if he was forcing hisself and she was scared
+HYP: i think because in the old days you did not * * like i  say i do not know if it was consensual they was going behind the bend somewhere or if he was forcing himself and she was scared
+                   S                             D D           S                                                                                                        S                   
+
+DDM:0.12903225806451613	WER:0.22580645161290322
+sentence 1
+REF: and like he is a pastor of 2 churches he used to have 3 but he    a pastor of 2 churches and   at    mount zion here in princeville which is the oldest
+HYP: and like he is a pastor of 2 churches he used to have 3 but he will   pass ** 2 churches and that mountain sign here in princefield which is the oldest
+                                                                       S      S  D                   S        S    S                   S                    
+
+DDM:0.12727272727272726	WER:0.1206896551724138
+sentence 1
+REF: yes i i i can not say i did not like english math and all of that i was good at that too i hated history i mean what is your point they dead it is over why you going to tell me about it put that drama in my life i do not care that is  the way i felt
+HYP: yes i * * can not say i did not like english math and all of that i was good at that too i hated history i mean what is your point they  did it is   so why you  want to tell me about it put that drama in my life i do not care that is what *** i felt
+           D D                                                                                                                                  S          S             S                                                                        S   D       
+
+DDM:0.125	WER:0.3076923076923077
+sentence 1
+REF: that it it was just a a rough place to try to find your your stardom
+HYP:  but it ** was just a * rough place to try to find **** your stardom
+        S     D            D                               D             
+
+DDM:0.125	WER:0.17647058823529413
+sentence 1
+REF: i wish i could remember where he was before he moved to thurston but  i that   is
+HYP: i wish i could remember where he was before he moved to thurston but at this time
+                                                                           S    S    S
+
+DDM:0.12380952380952381	WER:0.14414414414414414
+sentence 1
+REF: yeah each each band has their significant style i mean but they are all played on the same instrument of course every band is going to have a different style like chuck brown would be like more slow pace or you know  you had more slow pace for the older crowd   cause they was not with all that but you know junk back and northeast groovers you know they could go slow or they will go fast for a couple dances or something like that for   back   in  the day but i will tell you one thing we do not percolate that is what we will not do down in dc we do not percolate
+HYP: **** each each bear has their significant style i mean but they are all played on the same instrument of course every band is going to have a different style like chuck brown    to be like more slow pace or you know yeah *** more slow pace for the older crowd because they was not with all that but you know junk back  in northeast  brewers you know they could go slow or they **** go fast for a couple dances or something like that for better than that *** but i will tell you one thing we do not percolate that is what we want  to do  man in dc we do not percolate
+        D              S                                                                                                                                                                S                                       S   D                                          S                                                     S                  S                                        D                                                             S    S    S   D                                                                      S   S       S                          
+
+DDM:0.12162162162162163	WER:0.20253164556962025
+sentence 1
+REF: i stayed with my grandmother until i was 13 so when we 1st got up when i f when she 1st got here and to take me to school it was  number school on * * avenue it is on * * avenue now but the r original was on * * avenue so i was    go to f 5th grade and they said i * could not   cause i was coming from the south and she said she ** going to 5th grade
+HYP: i stayed with my grandmother until i was 13 so when we 1st got up when * * **** she 1st got here and to take me to school it was numbing school on d c avenue it is on d c avenue now but the * original was on d c avenue so i was going to * 5th grade and they said i i could not because i was coming from the south and she said she is going to 5th grade
+                                                                            D D    D                                                        S           I I                 I I                    D                 I I                     S    D                           I                 S                                               I                   
+
+DDM:0.12121212121212122	WER:0.2222222222222222
+sentence 1
+REF: but i wanted it i do not want to get ** ** have it in her mind that the hate that i have for little boys that she got to well i i do not want to tell  him this
+HYP: but i ****** ** * do not want to get it to have it in her mind that the hate that i have for little boys that she got it well i * do not want to tell them this
+                D  D D                     I  I                                                                             S        D                        S     
+
+DDM:0.12121212121212122	WER:0.05405405405405406
+sentence 1
+REF: it is it will work out it will work out but yeah that is what people i guess that is what people think about those that speak like they are from down south but they was raised up here
+HYP: it ** ** will work out it will work out but yeah that is what people i guess that is what people think about those that speak like they are from down south but they was raised up here
+         D  D                                                                                                                                                                               
+
+DDM:0.12	WER:0.18867924528301888
+sentence 1
+REF: then i will teach you calculus and i am like okay so 1st      you know i am not really learning nothing because i am not teaching well but eventually he taught me he taught me calculus and i am sitting here   i am like okay derivatives huh okay and the thing about **** is we do not take regents
+HYP: then i will teach you calculus and i am like okay so  at ferguson **** i am not really learning nothing because i am not teaching well but eventually he taught me ** ****** ** calculus and i am sitting here and ** like okay derivatives *** okay and the thing about this is we do not take regents
+                                                            S        S    D                                                                                              D      D  D                                  S  D                         D                             I                          
+
+DDM:0.11864406779661017	WER:0.28
+sentence 1
+REF: that is a story within itself i have 22 little girls by 2 different mothers so that that that set me back a little bit from from going back to school because i i was i was ready to go back to school but had them babies and that that took my    my   m my money went to that
+HYP: that is a story within itself i have  2 little girls by 2 different mothers so that sent **** *** me back a little bit from **** going back to school because i * was * *** ready to go back to school but had   no babies and that **** took my money and ** ***** went to that
+                                           S                                                S    D   D                              D                                D     D   D                                       S                    D             S   S  D     D             
+
+DDM:0.11764705882352941	WER:0.11764705882352941
+sentence 1
+REF:  yep the years ** was it 49 and 50 and i would meet our music teacher missus
+HYP: yeah the years of was it 49 and 50 and i would meet our music teacher missus
+        S            I                                                           
+
+DDM:0.11607142857142858	WER:0.07142857142857142
+sentence 1
+REF: and she took a picture that she still had it and posted it on facebook and she is like i still have this remember you know when we when you did these that you know that m made a difference blah blah blah blah blah so i think it was around that time i was really grappling with yeah art thing is cool but that is not what i want to do i want to help people and that is you know that is kind of where my head was even when i graduated and i think   cause i grappled with that so much i did not know what i wanted to do was when i got to
+HYP: and she took a picture that she still had it and posted ** on facebook and she is like i still have this remember you know when we **** *** did these that you know that * made a difference blah blah blah blah **** so i think it was around that time i was really grappling with yeah our thing is cool but that is not what i want to do i want to help people and that is you know that is kind of where my head was even when i graduated and i think because i grappled with that so much i did not know what i wanted to do *** when i got to
+                                                              D                                                                            D   D                              D                                          D                                                                       S                                                                                                                                                                      S                                                                   D              
+
+DDM:0.11403508771929824	WER:0.11016949152542373
+sentence 1
+REF: you know they saw us like 0 okay well these black people you know niggas getting  unr   r   restless you know we aint putting up with this you know particularly when they saw us in like positions as senators and they were like uhuh you all you all got to fix the rules to get them **** where they ******** sposta belong and all of those positions that they got during reconstruction they lost because the white government the white state government figured out a way to get them out of office with all kind of crazy tests that you had to how many marbles in a bottle read this paragraph 0 you did not read it right you can not vote
+HYP: you know they saw us like 0 okay well these black people you know    and    they just get unrestless you know we aint putting up with this you know particularly when they saw us in like positions as senators and they were like **** you all *** *** got to fix the rules to get them back where they supposed     to belong and all of those positions that they got during reconstruction they lost because the white government the white state government figured out a way to get them out of office with all kind of crazy tests that you had ** how many marvels in a bottle read this paragraph 0 you did not read it right you can not vote
+                                                                            S       S    S   S          S                                                                                                                                  D           D   D                                     I                   I      S                                                                                                                                                                                                                                D                S                                                                             
+
+DDM:0.11267605633802817	WER:0.2608695652173913
+sentence 1
+REF: s kind of sort of so i am the link so well i am not i am not the link and i was not the link i am the one that   pull everybody together so to speak so it was me and my best friend we have known each other since    7th grade and then it is not funny but i was towards my ninth grade year    i became     a part of a group called keep it tight
+HYP: * kind of sort of so i am the link so  why * ** not i am not the link *** i was not *** **** i am the one that bought everybody together so to speak so it was me *** my best friend we have known each other    so afraid ***** and then it is not funny but i was towards my ninth where  you ever   came apart **** of a group called keep it tight
+     D                                        S D  D                         D             D    D                        S                                               D                                             S      S     D                                                         S    S    S      S     S    D                                
+
+DDM:0.1111111111111111	WER:0.17647058823529413
+sentence 1
+REF: and it is like my dad is family is even close with my family because they all grew up together
+HYP: *** ** ** like my dad is family is even close with my family because they all grew up together
+       D  D  D                                                                                     
+
+DDM:0.1111111111111111	WER:0.0
+sentence 1
+REF: moments that made you laugh like that gut wrenching
+HYP: moments that made you laugh like that gut wrenching
+                                                        
+
+DDM:0.1111111111111111	WER:0.10810810810810811
+sentence 1
+REF: i need your music on right now before  i can have my nice night tonight you know what i mean so it is cool like they are not just bumping down south music they do respect our sound
+HYP: i need your music ** right now    for me  to have my nice night tonight you know what i mean so it is cool like they are not just bumping down south music they do respect our sound
+                        D                S  S   S                                                                                                                                        
+
+DDM:0.1111111111111111	WER:0.2727272727272727
+sentence 1
+REF: she is  a   s staff ** something what is it called
+HYP: she is on the staff or something what is it called
+             S   S        I                            
+
+DDM:0.1111111111111111	WER:0.0
+sentence 1
+REF: and so this lady she was a principal too
+HYP: and so this lady she was a principal too
+                                             
+
+DDM:0.1092436974789916	WER:0.22321428571428573
+sentence 1
+REF: well one friend that i still have ** his name me and him been friends ever since babies   cause our  moms were friends he was like the chubby fat k fat dude then he started playing football and slimmed up    it was a dude named he was  a older dude like probably like 4 years older than us and we all like looked up to him   cause he was like the like the east high school football player and like he used to train us out in the field and we used to like play like like t like shoot  em up bust  em up like basically like football freehand football yeah    i had some pretty cool *** friends on court
+HYP: well one friend that i still have is not   it me and him been friends ever since babies because our miles were friends he was like the chubby fat * *** dude then he started playing football *** slimmed up there was a dude named he was an older dude like probably like 4 years older than us and we all like looked up to him because he was like the **** *** east high school football player and like he used to train us out in the field and we used to like play like **** * **** shoot him up bust him up like basically like football freehand football yeah that  is **** pretty cool for     him to  work
+                                        I   S    S                                                 S         S                                         D   D                                         D                S                          S                                                                                            S                    D   D                                                                                                                 D D    D         S           S                                                           S   S    D               I       S  S     S
+
+DDM:0.10606060606060606	WER:0.14393939393939395
+sentence 1
+REF: like    as as far as you know letting the government just do anything that they want to do basically   cause nobody is really there to fight for us or you know actually see what really goes down behind closed doors i mean yeah we have people on television telling us one thing but they could just be   being a puppet for the next man but we really would not know until we **** able to fight for the cause and get what we want right inf in in front of us so it  will be shown instead of going off what everybody else  is saying and it is going the other way but the whole plan was    to go the other way the whole time but you will never be able to know that until you open your eyes
+HYP:    i guess as far as *** **** letting the government just do anything that they want to do basically because nobody is really there to fight for us or *** **** actually see what really goes   on behind closed doors i mean yeah we have people on television telling us one thing but they could just be digging a puppet for the next man but we really would not know until we were able to fight for the cause and get what we want right *** in ** front of us so it would be shown instead of going off with everybody else the   same and it is going the other way but the whole plan was going ** the other way the whole time but you will never be able to   do that until you open your eyes
+        S     S             D    D                                                                              S                                             D    D                                  S                                                                                                                S                                                                    I                                                          D     D                       S                                  S                  S      S                                                          S  D                                                               S                              
+
+DDM:0.09836065573770492	WER:0.1724137931034483
+sentence 1
+REF: i am i am not   worry about a confederate flag flying you know across my face or driving behind somebody and they spit on my car because i am black you know but the and my brother has told me about things that have happened just because he is black so i do not worry about that here so i am thankful for that i should say
+HYP: i am * ** not worried about a confederate flag flying *** **** across my face or driving behind somebody and they spit on my car because i am black *** **** *** *** *** my brother has told me about things that have happened just because he is black so i do not worry about that here so i am thankful for that i should say
+          D  D           S                                   D    D                                                                                        D    D   D   D   D                                                                                                                                                         
+
+DDM:0.0967741935483871	WER:0.2962962962962963
+sentence 1
+REF: to present it without l f u looking looking like a threat we just want people to acknowledge the wrong and  let us see if we can do something ***** correcting it because
+HYP: to present it without * * * looking ******* like a threat we just want people to acknowledge the wrong and less ** *** if we can do something about correcting it because
+                           D D D               D                                                                   S  D   D                            I                      
+
+DDM:0.0967741935483871	WER:0.12903225806451613
+sentence 1
+REF: with all the crinolines on there i remember that skirt i would wear it every friday and it had like a carousel around it i could not dance but i could twirl
+HYP: with all the crittalins on there i remember that skirt i  wore   at ** every friday and it had like a carousel around it i could not dance but i could twirl
+                           S                                      S    S  D                                                                                      
+
+DDM:0.09523809523809523	WER:0.047619047619047616
+sentence 1
+REF: you know what the biggest difference is going to be he got somebody that is unselfish that will give him the ball
+HYP: you know **** the biggest difference is going to be he got somebody that is unselfish that will give him the ball
+                 D                                                                                                    
+
+DDM:0.09316770186335403	WER:0.13924050632911392
+sentence 1
+REF: that used to be what we used to call the market we used to can go down there and it was different little e sh stands inside   of there we could shop for hair goods t shirts you they had a place in there that had the best f ch steak and cheese i mean these are all the things that we saw you know we have seen change over the years the corner store that sits right there next to kipp used to be a people is drug store and if you go further up *** benning road on the left hand side right there i think that  is benning     road and h that used to be the only black owned record store on this side of town and it was called anne is record shop and then where the      hair braiding place is now that used to be a cleaners and then the 24 hour store used to be an actual * ** 711
+HYP: that used to be what we used to call   a market we used to can go down there and it was different little * ** stands inside that ***** we could shop for hair goods t shirts *** they had a place in there that had the best * ** steak and cheese i mean these are all the things that we saw you know we have seen change over the years the corner store that sits right there next to  kip used to be a people is drug store and if you go further up ben     and road on the left hand side ***** there i think that has    been enrolled  at h that used to be the only black owned record store on this side of town and it was called  ann is record shop and then where the headbrain ******** place is now that used to be a cleaners and then the 24 hour store used to be an actual 7 11 and
+                                            S                                                                 D  D                  S     D                                         D                                             D  D                                                                                                                                                            S                                                              I       S                                D                      S       S        S   S                                                                                               S                                           S        D                                                                                         I  I   S
+
+DDM:0.09302325581395349	WER:0.13043478260869565
+sentence 1
+REF: one bathroom small living room small kitchen all of **  us like into one just ridiculous and  now you go to her house her house is not sitting in the same space it is kind of further back it  sit up they got to build up
+HYP: one bathroom small living room small kitchen all of it was like into one just ridiculous and then you go to her house her house is not sitting in the same space it is kind of further back it sits up they got it built up
+                                                          I   S                                      S                                                                                                 S              S     S   
+
+DDM:0.09146341463414634	WER:0.20606060606060606
+sentence 1
+REF:  i know it was totally different it was a friday night i had got published in capitol romance that day one of my     s photoshoots got published i said you know what screw it i am going out tonight i am going to hit   u street went out looked for parking for fortyfive god darn minutes could not find  not s stitch of parking near   u street so i drove all the way down to   constitution ave i said i am a   go over here    by the government ******** buildings where i know my car *** is not going to get broken into and i am still in the city and i parked my car and i called a lyft from there the difference is if i would have went all the way home to temple hills and called a lyft and parked my car at my house that lyft would have been like $20 i called a lyft from   constitution avenue to u street it was    $4 and sixtyseven cents
+HYP: no **** it  is    only different it was a friday night i had got published in capital romance that day one of my photo      shoots got published i  say you know what screw it i am going out tonight i am going to hit you street went out looked for parking for        45 god darn minutes could not find that * stitch  a parking near you street so i drove all the way down to constitutional *** i said i am a goal   we hear about   a government building        is where i know my car car is not going to get broken into and i am still in the city and i parked my car and i called a lift from there the difference is if i would have went all the way home to temple hills and called a lift and parked my car in my house that lift would have been like $20 i called a lift from constitutional avenue to u street it was $4.67 *** ********** *****
+      S    D      S       S                                                              S                                S           S                    S                                                                   S                                                S                                    S D         S                S                                                    S   D                  S    S    S     S   S                   I         S                       I                                                                                                  S                                                                                                    S                    S                  S                                        S                   S                               S   D          D     D
+
+DDM:0.09090909090909091	WER:0.21212121212121213
+sentence 1
+REF: **    0 well nobody knows i guess people got tired of soliciting help and you know some of the dynamics changed where neighbors just were getting older and did not want to do it anymore
+HYP: we know what     it knows i guess people got tired of soliciting help and *** **** some of the dynamics  change where neighbors just were getting older and did not want to do it anymore
+      I    S    S      S                                                         D    D                            S                                                                          
+
+DDM:0.09090909090909091	WER:0.06766917293233082
+sentence 1
+REF: yes but all us work i have a friend she is a police officer that is my best friend we went to hair school together w basically we did everything together until she went into the police force back in high school i still talk to some of my friends from the basketball team  me and her close but we have our families she live out clinton so we see each other when we go to church sometimes and we talk on the phone but when we get together it is always the same so we know that you know we are true friends   cause it alway    the s always the same when we see each other but all in all i  stays in the house trying to get them book works done that is it
+HYP: yes but all us work i have a friend she is a police officer that is my best friend we went to head school together * basically we did everything together until she went into the police force back in high school i still talk to some of my friends from the basketball team man *** her close but we have our families she live out clinton so we see each other when we go to church sometimes and we talk on the phone but when we get together it is always the same so we know that you know we are true friends because it    is always * always the same when we see each other but all in all i stayed in the house trying to get them book works done that is it
+                                                                                                      S                 D                                                                                                                                                             S   D                                                                                                                                                                                                                                        S        S      S D                                                              S                                                           
+
+DDM:0.09090909090909091	WER:0.023809523809523808
+sentence 1
+REF: i just want to experience living somewhere else and then it is so expensive to live here now you can not even live comfortably without really thinking about okay i got to pay all this money for rent got to pay all this money for food for this for metro x y and z so i do want to move   cause i did not go away for school so i feel like i just kind of been stuck    h even though i have traveled
+HYP: i just want to experience living somewhere else and then it is so expensive to live here now you can not even live comfortably without really thinking about okay i got to pay all this money for rent got to pay all this money for food for this for metro x y and z so i do want to move because i did not go away for school so i feel like i just kind of been stuck here even though i have traveled
+                                                                                                                                                                                                                                                                                                       S                                                                          S                            
+
+DDM:0.09090909090909091	WER:0.1
+sentence 1
+REF: and that was that was really nice my grandmother and i came up here yeah they had the rko palace the rko temple the rko the other one was on east avenue 0 it was so many movies i lost my train of thought
+HYP: and that was **** *** really nice my grandmother and i came up here **** they had *** rko palace the rko temple the rko the other one was on east avenue 0 it was so many movies i lost my train of thought
+                     D   D                                                  D            D                                                                                                                      
+
+DDM:0.08823529411764706	WER:0.12121212121212122
+sentence 1
+REF: well this place from what i have been told f w was 1st called freedom hill and i can imagine my great great grandparents were part of those 1st freed slaves that would  settle here
+HYP: well this place from what i have been told * * was 1st called freedom hill and i can imagine my great great grandparents were part of those 1st freed slaves that  were settled here
+                                                D D                                                                                                                        S       S     
+
+DDM:0.08695652173913043	WER:0.041666666666666664
+sentence 1
+REF: yes but i do not share i did share at the torch club when they had the poetry night here a few months ago
+HYP: yes but i do not share i did share at the torch club when    i had the poetry night here a few months ago
+                                                                  S                                           
+
+DDM:0.08333333333333333	WER:0.0
+sentence 1
+REF: and let us see somebody else have you ever heard of thomas reeves
+HYP: and let us see somebody else have you ever heard of thomas reeves
+                                                                      
+
+DDM:0.07692307692307693	WER:0.32
+sentence 1
+REF: to the point where they are building buildings on top of something   it j it it should not even why are you building a building on ***    an overpass
+HYP: to the point where they are building buildings on top of something that * ** ** should not even why *** you building a building on the other     side
+                                                                           S D  D  D                       D                              I     S        S
+
+DDM:0.07692307692307693	WER:0.08
+sentence 1
+REF: and going i mean he could pre 0 he could just like fire and just work everybody up you know he was just that kind of peo i can see that i c i do not remember exactly what it was he talked about but i remember i can see him in the
+HYP: and going i mean he could pre 0 he could just like fire and just work everybody up you know he was just that kind of *** i can see that i * * do not remember exactly what it was he talked about but i remember i can see him in  it
+                                                                                                                            D                  D D                                                                                       S
+
+DDM:0.07692307692307693	WER:0.07142857142857142
+sentence 1
+REF: and i remember and i asked ******* cause was 3 when she passed and he still remembers that that is how he learned how to count steps so
+HYP: and i remember and i asked because  ruan was 3 when she passed and he still remembers that that is how he learned how to count steps so
+                                      I     S                                                                                               
+
+DDM:0.075	WER:0.075
+sentence 1
+REF: you know listening to my daughter that that phrase comes up like 67 times in   a course of a conversation with her and there is a lot of stuff  in you know what i am saying that you never get to
+HYP: you know listening to my daughter that **** phrase comes up like 67 times in the course of a conversation with her and there is a lot of stuff and you know what i am saying that you never get to
+                                               D                                    S                                                                 S                                                
+
+DDM:0.06976744186046512	WER:0.16666666666666666
+sentence 1
+REF: one time i r i learned a lot becoming a tourist one time and it was not until i w got married again we took the bus ** tour bus and i learned about the archiatect i learned to appreciate the archiatect more in dc
+HYP: one time i * * learned a lot becoming a tourist one time and it was not until i * got married again we took the bus to    a bus and i learned about the  architect i learned to appreciate the  architect more in dc
+                D D                                                                  D                                    I    S                                      S                                      S           
+
+DDM:0.06976744186046512	WER:0.08695652173913043
+sentence 1
+REF: i do not know like i think to me everybody in rochester pretty much ****  be speaking english or they are not from rochester so that is understandable that they have an accent or like english is not their 1st speaking language   cause i mean we have
+HYP: i do not know like i think to me everybody in rochester pretty much they are speaking english or they are not from rochester so that is understandable that they have ** accent or like english is not their 1st speaking language because i mean we have
+                                                                            I   S                                                                                           D                                                                 S               
+
+DDM:0.06818181818181818	WER:0.09302325581395349
+sentence 1
+REF: and so all of a sudden i guess someone assigned said well that is a safe haven for them because jim  crowism was still going on that the some of the southerners just was bitter about taking their free free slave labor away from   em
+HYP: and so all of a sudden i guess someone assigned said well that is a safe haven for them because jim corrison was still going on that *** some of the southerners just was bitter about taking their free **** slave labor away from them
+                                                                                                                S                           D                                                                    D                          S
+
+DDM:0.06666666666666667	WER:0.05084745762711865
+sentence 1
+REF: and at the movie when you went then you got a choice of you you always had 2 full length movies and you had i do not know how many cartoons then you had the coming attractions you had what they call serials which was chapters and and you always had a western you got all of that for your money
+HYP: and at the movie when you went then you got a choice of you *** always had 2 full length movies and you had i do not know how many cartoons then you had the common attractions you had what they call serials which was chapters *** and you always had a western you got all of that for your money
+                                                                   D                                                                                                   S                                                                 D                                                                
+
+DDM:0.06666666666666667	WER:0.3953488372093023
+sentence 1
+REF: i do not it is it is i do not know it is it is somethi it is something about us like like you   can hear somebody from the city ***   and be like okay yeah they are from the city but like you hear somebody from rochester and you are like where *** they from
+HYP: i do not ** ** ** ** * ** *** know it is ** ** ******* ** ** something about us like **** you could hear somebody from the city you would be like okay yeah they are from the city but like you hear somebody from rochester and you are like where are they from
+               D  D  D  D D  D   D             D  D       D  D  D                            D         S                               I     S                                                                                                             I          
+
+DDM:0.06611570247933884	WER:0.203125
+sentence 1
+REF: it was very welcome ** even to the point **** i did not even know that but i do not think they did ***** branding very well back then but i did not even know i thought we going to the arc that is what it was it was the arc period so when i interviewed and we talked about it even then i said i was about * ** probably my *** midtwenties and that is when i i went back there for something and i remember saying and at that time i was like 0 boys and girls club took over *** been here the whole time but i was telling i was like yeah that is when i 1st realized it was the boys and girls club all that time
+HYP: it was very welcome it  was to the point that i did not even know that *** i do not think they did brand       it very well back then but i did not even know i thought we  went to the art that is  who it was it was the art period so when i interviewed *** we talked about it even then i said i was about i am       in my mid         20s and that is when i * went back there for something and i remember seeing and at that time i was like 0 boys and girls club took over hit   it  all the ***** time *** i was selling i was like yeah that is when i 1st realized it was   a boys and girls club all  the time
+                          I    S                 I                            D                             I        S                                                              S          S            S                     S                                D                                                 I  I        S      I           S                    D                                                   S                                                               I    S    S         D        D             S                                                      S                            S     
+
+DDM:0.06349206349206349	WER:0.11475409836065574
+sentence 1
+REF: and we used to sweep it with the brush brooms and it would look neat a once you cl you know got it cleaned and neat and i used to lay on that ground and look at that dog look him in his eyes and he would look me right in ** mine and then i would draw him i would draw on this ground
+HYP: and we used to sweep it with the brush brooms and it would look neat * once you ** *** **** got it   clean and neat and i used to lay on that ground and look at that dog look him in his eyes and he would look me right in my  eye and then i would draw him i would draw on this ground
+                                                                          D           D   D    D              S                                                                                                                    I    S                                                      
+
+DDM:0.06349206349206349	WER:0.2878787878787879
+sentence 1
+REF: we just do not it is like     we do not even like bal i do not know it is a thing 1st of all dc s like straight dc does not claim baltimore at all like it is like they do not ever get along but i do not know it is just a thing like we like mmmm people like baltimore maryland no just **** baltimore baltimore we do not claim  the step children
+HYP: ** **** ** *** it is like really ** *** **** like *** i do not know it is a thing 1st of all dc * like straight dc does not claim baltimore at all like it is like they do not ever get along but i do not know it is just a thing like we like feel   like boss     woman       or no just boss    mobile   someone we do not claim that step children
+      D    D  D   D                 S  D   D    D        D                                           D                                                                                                                                                  S      S    S         S        S            I         S         S                    S              
+
+DDM:0.0625	WER:0.1956521739130435
+sentence 1
+REF: if that makes sense and they do not get a lot of my references like jokes or i can not think of anything right now but things i would say they would be like who if i were to say who   shot john you know you know what i am talking about
+HYP: ** **** ***** ***** and they do not get a lot of my references like jokes or i can not think of anything right now but things i would say that ***** be like *** if i were to say who should    i you know you know what i am talking about
+      D    D     D     D                                                                                                                          S     D           D                           S    S                                          
+
+DDM:0.0625	WER:7.333333333333333
+sentence 1
+REF: and certain people took risk and they went through there and they was like but a week and a half went by i think a week maybe a week or 4 or 5 days went by we went through and like just to see like like what      hap
+HYP: and       i ****** **** **** *** **** **** ******* ***** *** **** was like *** * **** *** * **** **** ** * ***** * **** ***** * **** ** * ** * **** **** ** ** **** ******* *** **** **** ** *** **** **** what happened
+               S      D    D    D   D    D    D       D     D   D    D            D D    D   D D    D    D  D D     D D    D     D D    D  D D  D D    D    D  D  D    D       D   D    D    D  D   D    D    D             S
+
+DDM:0.058823529411764705	WER:0.0
+sentence 1
+REF: they are grown now they might not remember you completely but they remember some things that they did
+HYP: they are grown now they might not remember you completely but they remember some things that they did
+                                                                                                          
+
+DDM:0.058823529411764705	WER:0.3333333333333333
+sentence 1
+REF: it is beautiful it was beautiful how things come together like that you know so now yeah it is
+HYP: it is beautiful it  is beautiful how things come together like that *** **** so now yeah ** **
+                          S                                                D    D              D  D
+
+DDM:0.058823529411764705	WER:0.05555555555555555
+sentence 1
+REF: if you do not nurture it take care of it it will still produce a small defected acron
+HYP: if you do not nurture it take care of it it will still produce a small defected apron
+                                                                                         S
+
+DDM:0.056338028169014086	WER:0.08450704225352113
+sentence 1
+REF: a lot of the kids i went to elementary from i was overweight growing up so a lot of the kids were going to wilson and i did not want to go because they  used to tease me all the time so i did not want to go to wilson and i did not want to go to a all girls school  cause i was like great i am never going to have a boyfriend
+HYP: a lot of the kids i went to elementary from i was overweight growing up so a lot of the kids were going to wilson and i did not want to go because they would ** tease me all the time so i did not want to go to wilson and i did not want to go to * all girls school sounds * *** like great i am never going to have a boyfriend
+                                                                                                                                                                 S  D                                                                                     D                       S D   D                                                
+
+DDM:0.05555555555555555	WER:0.3125
+sentence 1
+REF: but it is i think with rochester it is more so like because of what our city gets portrayed as
+HYP: but ** ** i think what rochester ** is more so **** because of what our city gets portrayed as
+          D  D            S            D               D                                           
+
+DDM:0.05263157894736842	WER:0.15789473684210525
+sentence 1
+REF:     or we would stay at my house and that is the way we grew up so we grew up like sisters
+HYP: always ** ***** stay at my house and that is the way we grew up so we grew up like sisters
+          S  D     D                                                                           
+
+DDM:0.05263157894736842	WER:0.14285714285714285
+sentence 1
+REF: it really is like i lived in greece for 3 years i will never forget because you are going to laugh
+HYP: it really is like i lived in greece for 3 years i will never forget because  it  is going to  last
+                                                                                   S   S              S
+
+DDM:0.05	WER:0.35294117647058826
+sentence 1
+REF: mmhm and i i i honestly and it is i have these conversations with him when he is vulnerable to have those conversations
+HYP: **** and i * * honestly *** ** ** i have these conversations with him when he is vulnerable to have those conversations
+        D       D D            D  D  D                                                                                      
+
+DDM:0.04838709677419355	WER:0.03225806451612903
+sentence 1
+REF: restaurant somewhere else where did he go i do not know where he went but eventually he was up on central avenue up with th all the hot dogs but he was on the corner of north street and central avenue and from there he moved  cross town on clarissa street and from there he moved here where did he he was somewhere
+HYP: restaurant somewhere else where did he go i do not know where he went but eventually he was up on central avenue up with ** all the hot dogs but he was on the corner of north street and central avenue and from there he moved across town on clarissa street and from there he moved here where did he he was somewhere
+                                                                                                                               D                                                                                                           S                                                                                   
+
+DDM:0.047058823529411764	WER:0.023529411764705882
+sentence 1
+REF: so it was a different she was not as elitist and then we had to catch the bus together because she lived on capitol hill in southeast and then i lived but and she lived in southeast but it was capitol hill and capitol hill is of course booming even back then it was pretty i do not know but capitol hill was weird but you know and i used to have to go across the bridge so we you know got c rode the bus together
+HYP: so it was a different she was not as elitist and then we had to catch the bus together because she lived on capitol hill in southeast and then i lived *** and she lived in southeast but it was capitol hill and capitol hill is of course booming even back then it was pretty i do not know but capitol hill was weird but you know and i used to have to go across the bridge so we you know got * rode the bus together
+                                                                                                                                                              D                                                                                                                                                                                                                                           D                      
+
+DDM:0.045454545454545456	WER:0.09090909090909091
+sentence 1
+REF: okay so we lived with my grandmother the majority of the time while we lived in dc and i can not remember the
+HYP: okay so we  live with my grandmother *** majority of the time while we lived in dc and i can not remember the
+                    S                       D                                                                     
+
+DDM:0.04477611940298507	WER:0.1
+sentence 1
+REF: and they feel embarrassed because they are like god like this it is embarrassing when they know that you know what they have been doing those stories are always the funniest because they that is when i learned that people can be very creative with their stories when they come up with things even when you say it is on video 0 that is not me i am like like shaggy that is not you
+HYP: and they feel embarrassed because they are like god **** **** it is embarrassing when they know that you know what they have been doing those stories are always the funniest because **** that is when i learned that people can be very creative with their stories when they come up with things even when you say it is on video 0 that is not me i am like **** shaggy live on *** you
+                                                            D    D                                                                                                                            D                                                                                                                                                                         D           S  S   D    
+
+DDM:0.043478260869565216	WER:0.0425531914893617
+sentence 1
+REF: like 3 or 4 people that i knew in college like pretty well and i had no idea that they were there and i had just got to dc so i was trying to kind of build my network of people so i am ** glad i went
+HYP: like 3 or 4 people that i knew in college like pretty well and i had no idea that they were there and i had just got to dc so i was trying to kind of build my network of people ** i am so glad i went
+                                                                                                                                                                                       D       I            
+
+DDM:0.043478260869565216	WER:0.23529411764705882
+sentence 1
+REF: but like when we get off early of course i can go but for the most part alero is is like my favorite    like hang out spot   cause especially in the summer they have the outdoor part and then at night it does not it is not just like they have they turn half of it into like a little club or whatever at     night time on some saturdays and stuff so i liked it there but if i am going to sit down and eat somewhere i like *** busboys i also like  ben is next door
+HYP: but **** when we get off early of course i can go but for the most part alero is ** **** my favorite hangout **** *** spot because especially in the summer they have the outdoor part and then at night it **** *** ** is not just like they **** **** turn half of it into **** a little club or whatever at nighttime   or ** some saturdays and stuff so i liked it there but if i am going to sit down and eat somewhere i like bus    boys i also like benz ** next door
+            D                                                                          D    D                   S    D   D            S                                                                             D   D  D                          D    D                         D                                      S    S  D                                                                                                       I       S                S  D          
+
+DDM:0.038461538461538464	WER:0.0
+sentence 1
+REF: but at the same time they need to be gently awakened to say well the only way we can get past that is to address it
+HYP: but at the same time they need to be gently awakened to say well the only way we can get past that is to address it
+                                                                                                                        
+
+DDM:0.03333333333333333	WER:0.1
+sentence 1
+REF: before you get to the concession stand and then you could go in and find a seat and i liked   cause i could sit upstairs or i could sit downstairs
+HYP: before you get to the concession stand and then you   can go in and find a seat and i  like because i could sit upstairs or i could sit downstairs
+                                                             S                                 S       S                                               
+
+DDM:0.03278688524590164	WER:0.0625
+sentence 1
+REF: i am not and i feel like if you are an involved parent with your  kid is education they are going to be successful wherever they are it is just the element and the environment that i want changed like in they are getting kicked out of their building for her 6th grade year who knows like if they are at franklin she aint going there
+HYP: i am not and i feel like if you are an involved parent with your kids ** education they are going to be successful wherever they are it is just the element  in the environment that i want changed like ** they are getting kicked out of their building for her 6th grade year who knows like if they are at franklin she aint going there
+                                                                         S  D                                                                                      S                                           D                                                                                                                                 
+
+DDM:0.03260869565217391	WER:0.10843373493975904
+sentence 1
+REF: and that was a short span of her life she was very young that she lived in a neighborhood where she went to school so i had a i grew up in a very robust neighborhood with children lots of children and we played outside a lot and as you probably heard from older people we could go outside and play forever until it was dark i mean that stuff about the the what do you call it the night light the playing until the til the the the lights came on
+HYP: and that was a short span of her life she was very young **** she lived in a neighborhood where she went to school so i *** * * grew up in a very robust neighborhood with children lots of children and we played outside a lot and as you probably heard from older people we could go outside and play forever until it was dark i mean that stuff about the *** what do you call it the night light the playing until *** *** *** *** the lights came on
+                                                                 D                                                             D D D                                                                                                                                                                                                                                   D                                                         D   D   D   D                   
+
+DDM:0.030303030303030304	WER:0.08823529411764706
+sentence 1
+REF: no actually i am a middle child so i have  a older brother and i have a younger brother and so i am dead smack in the middle 3 my parents had 3 boys so
+HYP: no actually i am a middle child so i have an older brother and i have a younger brother and so i am dead smack in the middle 3 my parents are 3 boys **
+                                                S                                                                                                S         D
+
+DDM:0.030303030303030304	WER:0.13333333333333333
+sentence 1
+REF:  it one of the things that i i recognized was an increase in their pride and their participation in the club and it t it took me until now to really see that
+HYP: and one of the things that i * recognized was an increase in their pride and their participation in the club and ** * it took me until now to really see that
+       S                          D                                                                                    D D                                        
+
+DDM:0.029411764705882353	WER:0.05128205128205128
+sentence 1
+REF: 0 yeah that is what i told    her i said like we were looking at the rental house she is like 0 my god i said do not worry i am buying a house you will not have to
+HYP: 0 yeah that is what i told doctor i said like we were looking at the rental house she is like 0 my god i said do not worry i am buying a house  he will not have to
+                                     S                                                                                                                S                 
+
+DDM:0.02702702702702703	WER:0.14285714285714285
+sentence 1
+REF: i mean geechee is like basically like like a southern accent and which a lot of us in rochester already sound quote unquote geechee because a lot of us was raised by folks that lived down south
+HYP: i mean   gichi is **** basically like **** a southern accent  in which a lot of us in rochester already sound quote unquote   gichi because a lot of us was raised by folks that lived down south
+                  S       D                   D                     S                                                                  S                                                              
+
+DDM:0.02702702702702703	WER:0.06493506493506493
+sentence 1
+REF: what is wrong and it is like n she can say 2 words and the      flood gates is like 0 my god you know and so she passed that i think along to me and when these young people come in and like you said you see it it is in your eyes it is in your body language it is in how you set down in the chair as opposed to how you set in the chair yesterday
+HYP: what is wrong and it is like * she can say 2 words and the floodgates ***** is like 0 my god you know and so she passed that i think along to me and when these young people come in and like you said you see it it is in your eyes it is in your body language it is in how you sit down in the chair as opposed to how you sat in the chair yesterday
+                                  D                                      S     D                                                                                                                                                                                                         S                                           S                       
+
+DDM:0.02702702702702703	WER:0.16216216216216217
+sentence 1
+REF: 0 high school was very fun i was pretty much in everything i was on well i started   debate team in 8th grade i was **  on debate team i was in rotc the whole time drama club
+HYP: 0 high school was very fun i was pretty much in everything i was on well i started debating **** in 8th grade i was in the    bay team i was in rlcc the whole time drama club
+                                                                                               S    D                     I   S      S                  S                          
+
+DDM:0.02531645569620253	WER:0.10526315789473684
+sentence 1
+REF: honestly my mom picked every single school that i went to so it started  of with prek at and then i went to from k through 2nd after i went to from 3rd until 6 at is where i started realizing why i was different from other people   cause like i was in 4th grade literally like a week and they come up to me and are like have you ever heard about the and i am like no
+HYP: honestly my mom picked every single school that i went to so it started off with  pre kf and then i went to from k through 2nd after i went to from 3rd until 6 it is where i started realizing why i was different from other people because like i was in 4th grade literally like a week *** they come up to me *** *** like have you ever heard about the and i am like no
+                                                                               S         S  S                                                                         S                                                                          S                                                 D                      D   D                                                    
+
+DDM:0.025	WER:0.0
+sentence 1
+REF: grow older we get darker so i was extremely light when i was a child and very skinny and so i was like an outcast because i was made fun of because i was the white girl at the school
+HYP: grow older we get darker so i was extremely light when i was a child and very skinny and so i was like an outcast because i was made fun of because i was the white girl at the school
+                                                                                                                                                                                           
+
+DDM:0.023255813953488372	WER:0.10526315789473684
+sentence 1
+REF: and it is a v variety and they are areays always speaking the truth in this new go go where they are just taking other songs and turning into go go     music it is like no it is speaking the truth i love chuck brown and it is i i remember and that is why i can not i can not complain at you know what environment i was exposed to   cause as i am older i am remembering the late nights and that is why my dad is dancing like that is what we used to do all night
+HYP: and it is a * variety and they are always always speaking the truth in this new go go where they are just taking other songs and turning into go go musically ** ** **** no it is speaking the truth i love chuck brown and it is i * remember and that is why i can not i can not complain at you know what environment i was exposed to because as i am older i am remembering the late nights and that is why my dad is dancing like that is what we used to do  on   the
+                 D                           S                                                                                                                   S  D  D    D                                                            D                                                                                                           S                                                                                                                    S     S
+
+DDM:0.02247191011235955	WER:0.175
+sentence 1
+REF: that is basically it once they both got jobs then you know they were out on their own and then they had an apartment on **** then they bought an apa had an apartment on **** then they bought this house so they actually bought the house for $17000 6 bedroom house 3 bathrooms 17000  year you know back then so that was crazy you so they payed their house off real quick because she was at kodak and he was in construction so it was basically a steal
+HYP: that is basically it once they both got jobs then *** **** they were out on their own and then they had an apartment on them then they bought an *** *** ** apartment on them then they bought this house so they actually bought the house for $17006 * bedroom house 3 bathrooms 17000 years *** **** back then so that was crazy *** so they  paid their house off real quick because she was at kodak and he was in construction so it was basically a steal
+                                                         D    D                                                                 I                       D   D  D                 I                                                                        S D                                     S   D    D                               D             S                                                                                                           
+
+DDM:0.020833333333333332	WER:0.04040404040404041
+sentence 1
+REF: about so it depends but i think it here i feel like a lot of people are from down south a lot of people have come up to rochester in particular because of job opportunities and different things at the time so most of everybody i know has roots somewhere else they are not actually born  here i can not trace anybody back that i know of that was just has always been here which makes sense in history unless somebody is family was an indentured servant i do not really know anybody that was born and just  bred here
+HYP: about so it depends but i think it here i feel like a lot of people are from down south a lot of people have come up to rochester in particular because of job opportunities and different things at the time so most of everybody i know has roots somewhere else they are *** actually born there i can not trace anybody back that i know of that was just has always been here which makes sense in history unless somebody is family was an indentured servant i do not really know anybody that was born  in just bread here
+                                                                                                                                                                                                                                                                                   D                   S                                                                                                                                                                                                              S          S     
+
+DDM:0.019230769230769232	WER:0.19607843137254902
+sentence 1
+REF: in lincoln heights when we 1st moved here and that was like my pre k 3 pre k 4 days my mom  is a dc dc teacher so she taught there and   we went  to school there but after elementary school graduated from there and went to middle school ***** ** in upper marlboro
+HYP: in lincoln heights when we 1st moved here and that was like my pre k 3 pre k 4 days my mom was a dc ** teacher so she taught there   i mean with the school there but after elementary school graduated from there *** went to middle school ended up in ***** marlboro
+                                                                                                  S       D                               S    S    S   S                                                                 D                           I  I        D         
+
+DDM:0.017543859649122806	WER:0.12280701754385964
+sentence 1
+REF: to take the test for *** **** and i did initially i was not accepted and but they asked me to come back for a 2nd interview and i ultimately was accepted so i i i went there my sister went to coolidge high school which was the high school in our neighborhood in  in tacoma park section of dc
+HYP: to take the test for the exam and i did initially i was not accepted *** but they asked me to come   by for a 2nd interview and i ultimately was accepted so i * * went there my sister went to coolidge high school which was the high school in our neighborhood in the tacoma park section of dc
+                            I    I                                          D                              S                                                        D D                                                                                                      S                          
+
+DDM:0.017543859649122806	WER:0.05
+sentence 1
+REF: caroline county virginia that is down by     king is dominion so when i was still up here i went through that program all 3 years and basically i am like okay yeah i definitely still want to be a lawyer so when i was at high school i went to another law program for i want to say 2 weeks in louisiana
+HYP: caroline county virginia that is down by kingsman ** ******** so when i was still up here i went through that program all 3 years and basically i am like okay yeah i definitely still want to be a lawyer so when i was at high school i went to another law program for i want to say 2 weeks in louisiana
+                                                     S  D        D                                                                                                                                                                                                                                               
+
+DDM:0.017391304347826087	WER:0.1651376146788991
+sentence 1
+REF: put me on his toes like his feet and we would dance all night literally and with my uncles as well that is that is honestly what we did and it is i love music music speaks to the soul like i love the older music like you will l catch me listening to all the old school like i love marvin gaye *** was actually complaining the other night   cause i am listening to marvin gaye and i am like this is our music honestly and i was telling her that they should have signed me up for jazz like i loved jazz i loved byue blues like i love all types of music but yeah i think ccb probably
+HYP: put me on his toes like his feet and we would dance all night literally and with my uncles as well that is **** ** honestly what we did and ** ** i love music music speaks to the soul **** i love the older music **** you will * catch me listening to all the old school **** i love marvin gaye who was actually complaining the other night because i am listening to marvin gaye and i am like this is our music honestly and i was telling you that they should have signed me up for jazz **** i  love jazz i  love **** blues **** i love all types of music but **** i think ccp probably
+                                                                                                                   D  D                           D  D                                          D                           D          D                                             D                      I                                                S                                                                                            S                                                D       S            S    D          D                                  D           S         
+
+DDM:0.016666666666666666	WER:0.10909090909090909
+sentence 1
+REF: to lead to speak et cetera to do these things that i try to help give kids now that i love you know doing so much with   em now and then because of the art experience there i was ready to go to gr interview for high school got into the both the theater and the tv production apart departments
+HYP: to lead to speak et cetera to do these things that i try to help give kids now that i love *** **** doing so much with them now and then because of the art experience there i was ready to go to ** interview for high school got into *** both the theater and the tv production ***** departments
+                                                                                                  D    D                       S                                                                        D                                      D                                            D            
+
+DDM:0.014084507042253521	WER:0.06944444444444445
+sentence 1
+REF: my wife points it out she says 0 w as soon as i get on the phone with my family or she said we can be driving to their house and my my language changes and without even thinking about it and she is like it happens automatically   cause i do not **** pay attention to it but the way i speak changes when i am around my family or predominantly around people of color
+HYP: my wife points it out she says * * as soon as i get on the phone with my family or she said we can be driving to their house and my ** language changes and without even thinking about it and she is like it happens automatically because i do not even pay attention to it but the way i speak changes when i am around my family or predominantly around people of color
+                                    D D                                                                                                   D                                                                                                    S             I                                                                                                                   
+
+DDM:0.009615384615384616	WER:0.07766990291262135
+sentence 1
+REF: she was born in a little town in georgia and everybody there if we if we go because we have family members that go every year we are related to every damn body in this little baby town like it is a very small town and they came up there f with my mother is oldest sister she passed her husband came up here to sell drugs so he moved the whole my grandmother like my aunt said i am not going without my family so he moved my grandmother and all her kids up here in order to get his wife to come up th here with him
+HYP: she was born in a little town in georgia and everybody there if we ** ** go because we have family members that go  over here we are related to every damn body in this little baby town like it is a very small town and they came up there * with my mother is oldest sister she passed her husband came up here to sell drugs so he moved *** ***** my grandmother like my aunt said i am not going without my family so he moved my grandmother and all her kids up here in order to get his wife to come up ** here with him
+                                                                         D  D                                               S    S                                                                                                                D                                                                                                 D     D                                                                                                                                                            D              
+
+DDM:0.0078125	WER:0.08943089430894309
+sentence 1
+REF: it was challenging because i think at that point so when i entered i was like ** 1313 or 14 and i think at that point i started to realize that you know not everybody is so like let me take a step back so i would participate in different community service activities so one of the things that we did is like interact with like sch students that went to like suburban high schools and so i think like going to their facilities and stuff like that i noticed like started to notice differences between like the schools like my school and their  school so like my school you know soon as you walk before you can get into the school you have to go through medical medical
+HYP: it was challenging because i think at that point so when i entered i was like 13   13 or 14 and i think at that point i started to realize that you know not everybody ** so like let me take a step back so i would participate in different community service activities so one of the things that we did is like interact with like *** students that went to like suburban high schools and so i think like going to their facilities and stuff like that i noticed    i started to notice differences between **** the schools like my school and their schools so **** my school  as **** soon as you walk before you can get into the school you have to go through ******* medical
+                                                                                    I    S                                                                                   D                                                                                                                                                                D                                                                                                                                 S                                          D                                            S       D             S    D                                                                                  D        
+
+DDM:0.007462686567164179	WER:0.07246376811594203
+sentence 1
+REF: doing music integration and yeah i am like it it it was it was nice it was really nice but i was really looking for my thing was what i started realizing as in **  is like you make progress with kids but then like something may happen at home that you have no idea about  and they come the next day and it is just like yo what is going on something could   have happened at i am allowed to i have that connection with the home the school the student the parent and it is like that full circle so i feel like right now i am finally at that place where i am this is the job that i want like this is how i feel like i can really make some type of impact or change amongst these youth
+HYP: doing music integration and yeah i am like it ** ** was ** *** nice it was really nice but i was really looking for my thing was what i started realizing as in it was like you make progress with kids but then like something may happen at home that you have no idea about when they come the next day and it is just like yo what is going on something could happen        i ** i am allowed to i have that connection with the home the school the student the parent and it is like that full circle so i feel like right now i am finally at that place where i am this is the job that i want like this is how i feel like i can really make some type of impact or change amongst these youth
+                                                    D  D      D   D                                                                                                   I   S                                                                                                            S                                                                                     S        S  D                                                                                                                                                                                                                                                                                                                   
+
+DDM:0.005917159763313609	WER:0.12727272727272726
+sentence 1
+REF: i tease him that he should have when i 1st met him i thought his family was west indian   cause you know i was not sophisticated enough to be able to tell dialects at that time and i only knew florida and georgia and that is a very different sounding tone so when i 1st heard his mother and his her his uncle speak and she would say things  and i was like is  his mother west   indian and then i found out they are from south carolina and then just like daughters of the dust and mama day and reading about the ugh those      sea coast islands and just really being caught up in the beauty of the language so i tease him that he probably should have been educated as an esl student because in many ways his his parents have this heavy hi his mother and his siblings i mean her siblings have this heavy speech pattern that i hear him say tha i am like yeah you know i said really
+HYP: i tease him that he should have when i 1st met him i thought his family was west indian because you know i was not sophisticated enough to be able to tell dialects at that time and i   am   in florida  in georgia and that is a very different sounding tone so when i 1st heard his mother and his *** *** uncle speak and she would say things that i was like is this     my wife standing and then i found her **** *** from south carolina and then just like daughters of the dust and mama day and reading about the *** those seacoast ***** islands and just really being caught up in the beauty of the language so i tease him that he probably should have been educated as an esl student because in many ways his *** parents have this heavy ** his mother and *** siblings i mean her siblings have this heavy speech pattern that i hear him say *** i am like yeah you know i said really
+                                                                                                   S                                                                                           S    S           S                                                                                             D   D                                         S                  S      S    S        S                    S    D   D                                                                                                   D              S     D                                                                                                                                                                              D                          D                  D                                                                                   D                                      
+
+DDM:0.0	WER:0.047619047619047616
+sentence 1
+REF: i think that like places deep on the west side and deep on the east side are probably like in the city
+HYP: i think that **** places deep on the west side and deep on the east side are probably like in the city
+                     D                                                                                     
+
+DDM:0.0	WER:0.08333333333333333
+sentence 1
+REF: so if you combine that with a career goal that it it it only reaches success if someone likes the way you look you could be
+HYP: so if you combine that with a career goal that it ** ** only reaches success if someone likes the way you look you could be
+                                                        D  D                                                                    
+
+DDM:0.0	WER:0.24489795918367346
+sentence 1
+REF: and even within our communities even gay black men versus g gay queer black women there is still some you know differences there is still some needs to some need to have separate spaces or spaces that satisfy both you know and so again i think ** gets it and he is trying to p create those spaces you know
+HYP: and even within our communities even gay black men versus * gay queer black women there is still some *** **** differences there is still some needs to **** **** ** have separate spaces or spaces that satisfy both *** **** and so again i think it gets it and he is trying to * create those spaces *** ****
+                                                               D                                             D    D                                             D    D  D                                                    D    D                       I                             D                       D    D
+
+DDM:0.0	WER:0.38461538461538464
+sentence 1
+REF: well you know the class of of of of 1990 was probably the best last  graduat no
+HYP: well you know the class of ** ** ** 1990 was probably the best last graduate **
+                                 D  D  D                                        S  D
+
+DDM:0.0	WER:0.019801980198019802
+sentence 1
+REF: i have been so that really just the only time that i do that type of stuff i mean i really want to do better at that and is when people come to town now i you know and i have a and as i have gotten older i definitely you know that is definitely on m my to do list and then you know there is certain things that i even forgot existed like the frederick douglass house is like right in anacostia up on the hill and i had totally forgotten about that until somebody mentioned did you tell me that
+HYP: i have been so that really just the only time that i do that type of stuff i mean i really want to do better at that and is when people come to town now i you know and i have a and as i have gotten older i definitely you know that is definitely on * my to do list and then you know there is certain things **** i even forgot existed like the frederick douglass house is like right in anacostia up on the hill and i had totally forgotten about that until somebody mentioned did you tell me that
+                                                                                                                                                                                                                                                             D                                                            D                                                                                                                                                                                       
+
+DDM:0.0	WER:0.16666666666666666
+sentence 1
+REF: and high school i went to and
+HYP: and high school i went to ***
+                                 D
+
+DDM:0.0	WER:0.35294117647058826
+sentence 1
+REF: activism you know i see is group i see the group * * * blak ck black
+HYP: activism you know i see  a group i see the group b l a    c  k black
+                              S                       I I I    S  S      
+
+DDM:0.0	WER:0.11428571428571428
+sentence 1
+REF: i have i have looked at u of r and rit what i find is that most of them want you to have college experience which is frustrating   cause i am not looking for teaching   jo roles
+HYP: i have * **** looked at u of r and rit what i find is that most of them want you to have college experience which is frustrating because i am not looking for teaching chat roles
+            D    D                                                                                                                          S                                  S      
+
+DDM:0.0	WER:0.13043478260869565
+sentence 1
+REF: my mom and dad are from mississippi so my father was born in hattiesburg mississippi and my mother is from smith smithville mississippi      the farmlands
+HYP: my mom and dad are from mississippi so my father was born in hattiesburg mississippi and my mother is from ***** smithville mississippi farmland *********
+                                                                                                                    D                               S         D
+
+DDM:0.0	WER:0.0
+sentence 1
+REF: i would love for businesses to be in the city and we deserve good restaurants and you know they all move out of our neighborhoods and now that i see what is happening i am like wait a minute
+HYP: i would love for businesses to be in the city and we deserve good restaurants and you know they all move out of our neighborhoods and now that i see what is happening i am like wait a minute
+                                                                                                                                                                                                   
+
+DDM:0.0	WER:0.05
+sentence 1
+REF: my dad also had a garage and store which was located in the area where the cement is out there
+HYP: my dad also had a garage and store which was located in  an area where the cement is out there
+                                                               S                                   
+
+DDM:0.0	WER:0.1875
+sentence 1
+REF: n you know where the park where the trail began after you come off the tar river
+HYP: * you know where the park where the trail began after you come out  to tar river
+     D                                                                S   S          
+
+DDM:0.0	WER:0.07042253521126761
+sentence 1
+REF: i would describe it as inner city i mean i grew up i am thirtynine now but when i grew up it was the * gboys and the black mob and you know it is a you know between    jen cottage street was pretty a lot of homeowners but genesee and jefferson a lot of just activity around but also a very pretty area a lot of old homes a lot of
+HYP: i would describe it as inner city i mean i grew up i am         39 now but when i grew up it was the g  boys and the black mob and you know it is a you know between cotted ******* street was pretty a lot of homeowners but genesee and jefferson a lot of just activity around but also a very pretty area a lot of old homes a lot of
+                                                                      S                                   I     S                                                              S       D                                                                                                                                                      
+
+DDM:0.0	WER:0.017699115044247787
+sentence 1
+REF: yep and we all you know we are all guilty of some type of collusion or you know whatever it takes to survive we have all had to swallow our pride at some and so i am not judgmental at all and i think we and and and i do not know where you are in your journey but a lot of us carry guilt because in one sense it is your responsibility to stand up in another sense you need to survive and these folks are not you know into explanation you know you just need your paycheck and so what are you willing to put up with in order to pay your bills
+HYP: yep and we all you know we are all guilty of some type of collusion or you know whatever it takes to survive we have all had to swallow our pride at some and so i am not judgmental at all and i think we and *** *** i do not know where you are in your journey but a lot of us carry guilt because in one sense it is your responsibility to stand up in another sense you need to survive and these folks are not you know into explanation you know you just need your paycheck and so what are you willing to put up with in order to pay your bills
+                                                                                                                                                                                                                      D   D                                                                                                                                                                                                                                                                                                                                     
+
+DDM:0.0	WER:0.0
+sentence 1
+REF: and she never recovered she was in the episcopal home she never recovered and that affected him and his health kind of went down too so i think somebody moved him out to arizona or something and that is where he died
+HYP: and she never recovered she was in the episcopal home she never recovered and that affected him and his health kind of went down too so i think somebody moved him out to arizona or something and that is where he died
+                                                                                                                                                                                                                             
+
+DDM:0.0	WER:0.047619047619047616
+sentence 1
+REF: but i have had a handful of days at my company that  were you know my blackness was you know bleeding
+HYP: but i have had a handful of days at my company that where you know my blackness was you know bleeding
+                                                             S                                            
+
+DDM:0.0	WER:0.052980132450331126
+sentence 1
+REF: i do not think so i think they are just trying to make more room and space for their students and trying to make it attractive to the folks that they are reaching out to and so this whole push for safer spaces and building you know this whole perception that you are in the city the u of r but it might not be safe and so they are taking up real estate that is exclusive to the folks that they are catering to and that is how it feels to me but that is without any data i do not know what attempts u of r has at * ** *** ***** my parents live a couple of blocks from u of r i do not think they have reached out at all i do not think but who knows if there is something in the works i am not aware of it
+HYP: i do not think so i think they are just trying to make more room and space for their students and trying to make it attractive to the folks that they are reaching out to and so this whole push for safer spaces and building you know this whole perception that you are in the city the u of r but it might not be safe and so they are taking up real estate that is exclusive to the folks that they are catering to and that is how it feels to me but that is without any data i do not know what attempts u of r has at i do not think my parents live a couple of blocks from u of r i do not think they have reached out at all * ** *** ***** but who knows if there is something in the works i am not aware of it
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     I  I   I     I                                                                                            D  D   D     D                                                                      
+
+DDM:0.0	WER:0.13333333333333333
+sentence 1
+REF: yeah so now my neighbors are great i actually have kids from rit **** nextdoor
+HYP: yeah so now my neighbors are great i actually have kids from rit next     door
+                                                                         I        S
+
+DDM:0.0	WER:0.09090909090909091
+sentence 1
+REF: like the education i got from * was was top tier
+HYP: like the education i got from f was was top tier
+                                   I                 
+
+DDM:0.0	WER:0.023809523809523808
+sentence 1
+REF: i would do those and i would be really happy doing it i just like now i know and if i have a kid like i will just try not to make their life hell and make them feel like they can stay
+HYP: i would do those and i would be really happy doing it i just like now i know and if i have a kid **** i will just try not to make their life hell and make them feel like they can stay
+                                                                                                         D                                                                                  
+
