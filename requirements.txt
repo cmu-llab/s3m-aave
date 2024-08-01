@@ -1,0 +1,16 @@
+jiwer
+dataset
+whisper
+matplotlib
+torch
+transformers
+evaluate
+numpy
+pandas
+datasets
+torchaudio
+psmpy
+espnet
+s3prl
+g2p_en
+git+https://github.com/chorusai/arpa2ipa
