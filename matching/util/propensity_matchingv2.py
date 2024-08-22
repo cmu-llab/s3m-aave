@@ -19,8 +19,9 @@ nsp["race"] = 1
 coraal["race"] = 0
 
 # natural log of the snippet length
-coraal["duration"] = np.log(coraal["duration"])
-nsp["duration"] = np.log(nsp["duration"])
+# Koenecke's version uses log but we do not
+# coraal["duration"] = np.log(coraal["duration"])
+# nsp["duration"] = np.log(nsp["duration"])
 
 # reproducibility
 #   this controls the randomness of pandas' sample() and sklearn
