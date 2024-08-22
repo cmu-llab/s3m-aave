@@ -3,6 +3,13 @@
 This is the code for the Interspeech 2024 paper "Self-supervised Speech Representations Still Struggle with African American Vernacular English."
 
 
+# Models
+* FBANK https://huggingface.co/sophia14/s3m-aave-fbank-asr
+* XLS-R https://huggingface.co/sophia14/s3m-aave-xlsr-asr
+* wav2vec 2.0 https://huggingface.co/sophia14/s3m-aave-wav2vec2-large-asr
+* WavLM https://huggingface.co/sophia14/s3m-aave-wavlm-asr
+* HuBERT https://huggingface.co/sophia14/s3m-aave-hubert-large-asr
+
 
 # Citation
 
