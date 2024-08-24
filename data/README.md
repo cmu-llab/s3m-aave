@@ -9,6 +9,7 @@ python preprocess_coraal.py
 
 ## NSP
 * Please contact Cynthia Clopper to download NSP (https://u.osu.edu/nspcorpus/)
+* Download MFA https://montreal-forced-aligner.readthedocs.io/en/latest/
 
 ```
 cd data
