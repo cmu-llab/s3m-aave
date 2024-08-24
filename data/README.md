@@ -1,11 +1,15 @@
 
 ## CORAAL
+```
 cd data
 python preprocess_coraal.py
 ./coraal/mp3_to_wav.sh
+```
 
 
 ## NSP
+* Please contact Cynthia Clopper to download NSP (https://u.osu.edu/nspcorpus/)
+
 ```
 cd data
 cd nsp
