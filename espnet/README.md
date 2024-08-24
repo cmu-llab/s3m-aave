@@ -54,4 +54,7 @@ Inference:
 ./run_wav2vec2.sh
 ```
 
-# TODO: LibriSpeech training steps
+# LibriSpeech training steps in ESPnet
+https://github.com/espnet/espnet/tree/master/egs2/librispeech_100/asr1
+* Copy our LibriSpeech training configurations in ```conf/tuning``` to ESPnet
+* run.sh to prepare LibriSpeech data and train
