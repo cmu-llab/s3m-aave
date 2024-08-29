@@ -2,6 +2,10 @@
 
 This is the code for the Interspeech 2024 paper "Self-supervised Speech Representations Still Struggle with African American Vernacular English."
 
+arXiv: https://www.arxiv.org/abs/2408.14262
+
+> Underperformance of ASR systems for speakers of African American Vernacular English (AAVE) and other marginalized language varieties is a well-documented phenomenon, and one that reinforces the stigmatization of these varieties. We investigate whether or not the recent wave of Self-Supervised Learning (SSL) speech models can close the gap in ASR performance between AAVE and Mainstream American English (MAE). We evaluate four SSL models (wav2vec 2.0, HuBERT, WavLM, and XLS-R) on zero-shot Automatic Speech Recognition (ASR) for these two varieties and find that these models perpetuate the bias in performance against AAVE. Additionally, the models have higher word error rates on utterances with more phonological and morphosyntactic features of AAVE. Despite the success of SSL speech models in improving ASR for low resource varieties, SSL pre-training alone may not bridge the gap between AAVE and MAE.
+
 
 # Models
 * FBANK https://huggingface.co/sophia14/s3m-aave-fbank-asr
