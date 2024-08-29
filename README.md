@@ -11,6 +11,11 @@ This is the code for the Interspeech 2024 paper "Self-supervised Speech Represen
 * HuBERT https://huggingface.co/sophia14/s3m-aave-hubert-large-asr
 
 
+# Poster
+
+![Interspeech_2024_Poster](https://github.com/user-attachments/assets/d823fc5d-12b6-45a2-b81f-feae495fc97e)
+
+
 # Citation
 
 Please cite our paper as follows:
